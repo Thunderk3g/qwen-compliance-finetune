@@ -1,0 +1,60 @@
+{
+  "document_id": "25628",
+  "title": "NA-Non ULIP",
+  "word_text": "What Is Annuity Due? Understanding Formula & Examples\nAn annuity due is a type of payment structure where each payment is made at the beginning of a period, such as rent or insurance premiums. It’s an important concept in finance and retirement planning, as it affects how much you earn or owe over time. In this article, we’ll cover how an annuity due works, the calculation process, and how it differs from an ordinary annuity.\nWhat is an Annuity Due?\nAn annuity due refers to a series of equal payments made at the start of each period, such as monthly, quarterly, or annually. You often see this in everyday life, like paying rent at the beginning of the month, insurance premium payment before coverage starts, or pension payouts received at the start of a financial period. These payments ensure services or benefits continue smoothly in the period that follows.\nAnnuity Due vs. Ordinary Annuity: Key Differences\nThe table below clearly explains the differences between annuity due and ordinary annuity:\nAnnuity Due Formula Explained\nAnnuity due formula helps to calculate the present or future value of an annuity due with a little variation to the ordinary annuity formula of the same. This variation exists because of the payment timing difference.\nPresent Value of an Annuity Due Calculation\nThe present value tells you what a series of future payments is worth today. Since payments are made earlier, each one is discounted for one less period, which increases the total value.\nThe formula is:\nPVDue = C * [{1 – (1 + r) ^ (-n)} / i] * (1 + r)\nWhere,\nC is the payment per period\nr is the interest rate per period\nn is the number of periods\nAn example to understand the above calculation in detail is given below:\nSuppose you receive ₹50,000 every year for 10 years, and the annual interest rate is 6%. Putting the values in the present value annuity due formula,\nPVDue = ₹50,000 * [{1 – (1 + 0.06) ^ (-10)} / 0.06] * (1 + 0.06)\nStep-by-step calculation:\n1.06 ^ (-10) = 0.558\n1 – 0.558 = 0.442\n0.442 / 0.06 = 7.366\n7.366 * 1.06 = 7.808\n50,000 * 7.808 = ₹3,90,400\nSo, the present value of your ₹50,000 annual payments is about ₹3.9 lakh today.\nFuture Value of an Annuity Due Calculation\nThe future value of an annuity due tells you how much your payments will grow to after all periods, assuming each payment earns interest. Because payments are made at the beginning of each period, each one earns interest for one extra period, increasing the total.\nThe formula is:\nFVDue = C * [{{1 + r) ^ n – 1} / i] * (1 + r)\nLet us understand this better with an example:\nUsing the same case — ₹50,000 per year for 10 years at 6% interest:\nFVDue = ₹50,000 * [{(1 + 0.06) ^10 – 1} / 0.06] * (1 + 0.06)\nStep-by-step breakdown:\n1.06^10 = 1.791\n1.791 – 1 = 0.791\n0.791 / 0.06 = 13.183\n13.183 * 1.06 = 13.974\n50,000 * 13.974 = ₹6,98,700\nThus, after 10 years, the annuity will be ₹6,98,700.\nBoth calculations show how timing plays a crucial role: receiving or paying earlier means more value today and more growth tomorrow. This concept is especially helpful in retirement planning, insurance, or fixed income calculations.\nPractical Annuity Due Examples\nAnnuity due payments are common in everyday financial activities. These are payments made at the beginning of each period, ensuring that the payer covers the service or benefit before using it.\nYour monthly house rent is an annuity due because it’s paid before occupying the property for the month.\nSimilarly, insurance premiums (like life or health insurance) are usually paid in advance to keep the coverage active.\nLease payments for vehicles or office spaces also follow the same pattern, as you pay at the start of each period.\nIn retirement planning, pension payments may also be structured as annuity due, where retirees receive their income at the beginning of each month to cover living expenses.\nEven Systematic Investment Plans (SIPs) in mutual funds that begin at the start of each period can be treated as a type of annuity due since the investment happens before returns are earned.\nUsing the Annuity Due Table for Quick Reference\nThe relationship between PV of annuity due and PV of ordinary annuity is:\nPV of an Annuity Due = PV of Ordinary Annuity * (1+r)\nA similar case is the future value of an annuity due. The present value annuity due table for a given interest rate and period is given below. This table is based on the present value of annuity due factors (i.e., ordinary annuity factor × (1 + r)).\nExample: You want ₹5,00,000 per year for 20 years; assume interest rate = 6%.\nPV factor for 20 years at 6% ≈ 12.1581 (from the table above).\nPV = ₹5,00,000 × 12.1581 ≈ ₹60,79,050.\nSo, the present value of your ₹5,00,000 annual payments is about ₹60.8 lakh today.\nTax Implications of an Annuity Due in India\nAnnuity payments received are taxable under the head ‘Income from Salary’. The tax rate depends on your income tax slab. Moreover, if you start receiving an annuity before completing 59.5 years, you might incur an additional tax liability of 10%.\nThough annuity income is taxable, you can claim a deduction from the income to lower the overall tax liability. The available deduction limit is the lower of the following –\nStandard deduction of ₹50,000\nTotal annuity income received in a year\nAdvantages and Limitations of Annuity Due\nSome benefits and drawbacks of annuity due are covered below:\nKey Takeaway\nAn annuity due means payments are made at the beginning of each period.\nIt offers a higher present and future value than an ordinary annuity because payments earn interest for an extra period.\nFormulae for PV and FV help calculate today’s worth or future value of recurring payments.\nCommon real-life examples include rent, insurance premiums, lease payments, pension payouts, and SIPs.\nAnnuity payouts are taxed in your hand at your slab rates under the head ‘Income from Salary’.\nKey benefits include early income and higher returns, while drawbacks include early cash outflow and less flexibility.\nConclusion\nUnderstanding annuity due can make a significant impact on retirement planning. By receiving or making payments at the start of each period, it maximises returns through early compounding, offering greater income security. Whether you’re nearing retirement or planning, selecting the right annuity structure ensures financial independence and helps you stay prepared for the future.\nFAQs\nWhat is the difference between an annuity due and an immediate annuity?\nAn annuity due involves payments made at the beginning of each period, such as monthly rent or insurance premiums. An immediate annuity starts payments immediately after a lump-sum investment, typically used for retirement income. So, in essence, both are the same.\nCan annuity due payments be deferred?\nSome life insurance annuity plans might allow deferment of the annuity due. However, you will have to look for such plans and the terms associated with such deferment.\nHow does the annuity due impact retirement planning in India?\nAn annuity due can have a significant impact on retirement planning in India because payments are made at the beginning of each period. This early payment allows each instalment to start earning interest sooner, resulting in higher compounding over time.\nAre annuity due payments taxable in India?\nYes, the annuity payouts that you receive would be taxed in your hands at your slab rates under the head ‘Income from Salary’. However, you can claim a standard deduction of ₹50,000 or the actual annuity income, whichever is lower, as a deduction from the annuity income to reduce the tax liability.\nHow does the annuity due formula differ from ordinary annuity?\nThe annuity due formula differs from an ordinary annuity because payments are made at the start of each period. This means both present and future values are higher:\nPV of Annuity Due = PV of Ordinary Annuity × (1 + r)\nFV of Annuity Due = FV of Ordinary Annuity × (1 + r), r being the rate of interest.\nEach payment is discounted or compounded for one extra period, giving greater value compared to ordinary annuities.\nCan I customise annuity due payment frequency (monthly, quarterly, annually)?\nYes, immediate annuity plans allow you to choose the frequency of the annuity payments. You can choose a frequency that matches your needs.\nDisclaimer\nThe views stated in this article are not to be construed as investment advice and readers are suggested to seek independent financial advice before making any investment decisions. For more details on risk factors, terms and conditions please read the sales brochure & policy document (available on www.bajajlifeinsurance.com) carefully before concluding a sale. Bajaj Life Insurance Limited (Formerly known as Bajaj Allianz Life Insurance Company Limited) Reg. Office Address: Bajaj Insurance House, Airport Road, Yerawada, Pune - 411006. CIN: U66010PN2001PLC015959,  call us on Customer Care No. 020-6712 1212 , mail us on: customercare@bajajlife.com. The Logo of Bajaj Life Insurance Limited is provided on the basis of license given by Bajaj Finserv Ltd. to use its “Bajaj” Logo.\nTax benefits as per prevailing Income tax laws shall apply. Please check with your tax consultant for eligibility",
+  "full_pdf_text": "",
+  "word_comments": [
+    {
+      "author": "Team Finprowise",
+      "comment": "https://corporatefinanceinstitute.com/resources/wealth-management/annuity-due/",
+      "paragraph_context": "An annuity due refers to a series of equal payments made at the start of each pe..."
+    },
+    {
+      "author": "Team Finprowise",
+      "comment": "https://www.investopedia.com/terms/a/annuitydue.asp#toc-annuity-due-vs-ordinary-annuity",
+      "paragraph_context": "The table below clearly explains the differences between annuity due and ordinar..."
+    },
+    {
+      "author": "Team Finprowise",
+      "comment": "https://www.investopedia.com/terms/a/annuitydue.asp#toc-how-an-annuity-due-works",
+      "paragraph_context": "The formula is:"
+    },
+    {
+      "author": "Team Finprowise",
+      "comment": "https://www.investopedia.com/terms/a/annuitydue.asp#toc-how-an-annuity-due-works",
+      "paragraph_context": "The formula is:"
+    },
+    {
+      "author": "Team Finprowise",
+      "comment": "https://www.investopedia.com/terms/a/annuitydue.asp",
+      "paragraph_context": "Annuity due payments are common in everyday financial activities. These are paym..."
+    },
+    {
+      "author": "Team Finprowise",
+      "comment": "https://corporatefinanceinstitute.com/resources/wealth-management/annuity-due/",
+      "paragraph_context": "The relationship between PV of annuity due and PV of ordinary annuity is:"
+    },
+    {
+      "author": "Team Finprowise",
+      "comment": "https://www.accountingtools.com/articles/present-value-of-an-annuity-due-table-present-value-table",
+      "paragraph_context": "A similar case is the future value of an annuity due. The present value annuity ..."
+    },
+    {
+      "author": "Team Finprowise",
+      "comment": "https://tax2win.in/guide/annuity-taxation-how-are-annuity-payments-taxed",
+      "paragraph_context": "Total annuity income received in a year"
+    },
+    {
+      "author": "Team Finprowise",
+      "comment": "https://tax2win.in/guide/annuity-taxation-how-are-annuity-payments-taxed",
+      "paragraph_context": "Yes, the annuity payouts that you receive would be taxed in your hands at your s..."
+    },
+    {
+      "author": "Team Finprowise",
+      "comment": "https://corporatefinanceinstitute.com/resources/wealth-management/annuity-due/",
+      "paragraph_context": "The annuity due formula differs from an ordinary annuity because payments are ma..."
+    }
+  ],
+  "changes": [],
+  "has_changes": false
+}

@@ -1,0 +1,460 @@
+{
+  "document_id": "19892",
+  "title": "NA-Non ULIP",
+  "word_text": "What is the OLTAS TDS Challan and how can I inquire about it?\nThe income tax payment option has been transferred from OLTAS to the e-filing portal's 'e-Pay Tax' feature. As a result, Challan 280 is no longer required or applicable. [1]\nOLTAS [Online Tax Accounting System] is an online system that uses a network of bank branches to collect, account for, and report the collections and payments of direct taxes from all types of taxpayers. Banks provide their taxpayers' data straight to the Tax Information Network (TIN). To handle all the data and information regarding challans between the tax administration and the banks, the National Securities Depository Ltd. created and maintains TIN. The system is now directly incorporated into the online portal for income tax filing. [1]\nWhen OLTAS was first created, its goals were as follows[1]:\nOnline accounting for direct taxes\nOnline direct tax collection\nOnline direct tax payment and receipt reporting\nOLTAS was introduced in three stages, and as of right now, 32 banks in the public and commercial sectors are authorized under it. In the beginning, the duty was limited to data pertaining to tax information. The initiative went online in April 2005. [1]\nBenefits of OLTAS\n1. A simplified challan in one copy is replaced by the previous quadruplicate challan;\n2. Taxpayers can pay online at any time and from any location;\n3. They can easily obtain an acknowledgment for taxes paid, which is available as soon as the bank authorizes payment;\n4. Additionally, the acknowledgement counterfoil with the Challan Identification Number (CIN) rubber stamp ensures that the payment is properly accounted for;\n5. All information and details regarding the tax payments are available online and can be easily checked;\n6. The taxpayer no longer needs to include copies or acknowledgement of the challan with the return because they have the counterfoil. Mention of the CIN details in the income-tax returns is sufficient compliance of enclosing proof of payment of taxes. [1]\nOnline Tax Accounting System (OLTAS) Challan Status Inquiry Tax Deducted at Source (TDS)\nAfter taxes are paid, the taxpayer receives the torn-off piece of the counterfoil after it has been rubber stamped by the collecting bank. If the payment is made online, a challan is generated right away. The Challan Identification Number (CIN), a distinct serial number that includes the following, is present on the challan or counterfoil. The RBI assigns a seven-digit BSR Code to the bank branch where taxes are deposited. Date of Challan Presentation (DD/MM/YY) Challan's five-digit serial number in that bank branch on that particular day. [2]\nA taxpayer's CIN serves as proof of tax payment and must be included in income tax returns and correspondence with the income tax department as needed. Additionally, the need to include a hard copy of tax-paid receipts with an income tax return has been eliminated by CIN. As a result, the tax paid challan is crucial, and it is crucial to make sure that all the information on it is accurate. A taxpayer can check the progress of their tax payments online at any time. However, OLTAS operates in the same manner for both income tax paid directly by the income earner and TDS paid by the deductor. [2]\nStatus Inquiry\nStatus The Tax Deduction and Collection Account Number (TAN) or CIN of the deductor can be used to monitor the status of the TDS Challan. While the CIN-based view can be used to check the status of any type of tax payment, the TDS challan can be checked using both the CIN and TAN-based views. A week after the challan is deposited with the bank, the status can be viewed. [1]\nCIN based view\nFrom Tax Payers, Choose CIN Based View\nEnter the Challan tender date (the date of the cash or check deposit), the Challan serial number, the amount (optional), and the CIN, or the BSR code of the collecting bank branch. The taxpayer can view the following information after choosing the option: [1]\nThe BSR Code\nDeposit Date\nChallan Serial Number\nDescriptive Major Head Code\nPermanent Account Number (TAN)\nTaxpayer's Name\nReceived by TIN on (the day that TIN received it)\nVerification that the amount entered (if submitted) is accurate[1]\nTAN-based view\nGo to the OLTAS website. Under \"For Tax Payers,\" select \"TAN based view.\" Enter the relevant period's TAN and Challan Tender Date range (it should be within 24 months).\nThe following challan details for the chosen TAN and time can be downloaded as a text file after choosing this option: [1]\nCIN\nMajor Head Codes with descriptions\nMinor Head Codes\nType of Payment\nThe system will verify whether the amount the taxpayer submits against their CIN matches the information the bank uploaded. The challan details listed in the Quarterly e-TDS/TCS statement should be confirmed using this file. Import the challan file and the text file (Quarterly e-TDS/TCS statement) into the File Validation Utility (FVU) in order to check the challan details. FVU will supply the matching statistic for the challan details listed in the Quarterly e-TDS/TCS statement upon successful validation. [1]\nFAQs\nWhat is meant by OLTAS challan?\nThe Income Tax Department is the driving force behind OLTAS. It is an online and bank branch network system for accounting, gathering, and reporting direct tax payments and revenues. [1]\nCan I use the internet to submit the OLTAS challan?\nTo pay your taxes, you must complete a challan. It is accessible online, at banks, and at the income tax department. Debit cards from approved banks or net banking can be used to make the payment online. Hard copies of the OLTAS challan and the amount owed can also be turned in offline at actual bank counters. [1]\nWhat factors should be taken into account when paying for the OLTAS challan?\nThe following are topics to consider when completing the OLTAS challan:\n1. Choosing the appropriate tax payment head\n2. Choosing the appropriate payment method\n3. Entering the accurate sum\n4. Verifying the type of payment chosen\n5. Choosing the appropriate assessment year\n6. Entering the deductor's accurate PAN and TAN information[1]\nWhat does \"claimed\" and \"unclaimed\" signify in relation to OLTAS challan status?\nClaimed refers to a sum in challan that matches the bank payment information and is displayed in the tax filer's TDS return. A bank payment that has not been claimed in return is known as an unclaimed challan. [1]\nIs it possible to file a single challan for several TDS challan payments?\nIt is possible to submit a single TDS payment challan under several sections. There are\nWhat is CIN?\nCIN is Challan Identification Number, which is a unique serial number [1]\nWhy was OLTAS introduced?\nIn order to solve problems with the manual tax collecting and accounting procedure, which was error-prone and challenging to maintain, OLTAS was implemented in June 2004. The system's objectives were to increase accuracy, streamline tax payments, and use technology to increase productivity. [2]\nWhen can a taxpayer check the status of their TDS challan?The status of a TDS challan can be viewed online approximately one week after the challan is deposited with the bank. [1]\nWhat information does the TAN-based view provide for TDS challan status?The TAN-based view allows taxpayers to check challan details such as the Challan Identification Number (CIN), Major and Minor Head Codes, and the type of payment for a specific TAN and time period. [1]\nHow can taxpayers ensure their challan details are accurate?Taxpayers can verify their challan details by importing the challan file and the Quarterly e-TDS/TCS statement into the File Validation Utility (FVU), which confirms whether the bank-uploaded information matches the taxpayer's records. [1]\nReferences:\n[1] https://cleartax.in/s/oltas-tds-challan#h0\n[2] https://cleartax.in/s/oltas-online-tax-accounting-system#features\nDisclaimer:\nThe views expressed in this article is not to be construed as professional advice and users are advised to seek independent professional/expert advice before making any decisions based on the same. Bajaj Allianz Life Insurance Company Ltd., Regd. office Address: Bajaj Allianz House, Airport Road, Yerawada, Pune - 411006, Reg. No.: 116, CIN: U66010PN2001PLC015959, Call us on toll free No.: 1800 209 7272, Mail us: customercare@bajajallianz.co.in",
+  "full_pdf_text": "What is the OLTAS TDS Challan and how can I inquire about it?\nThe income tax payment option has been transferred from OLTAS to the e-filing portal's 'e-Pay Tax' feature. As a result, Challan 280 is no longer required or applicable. [1] OLTAS [Online Tax Accounting System] is an online system that uses a network of bank branches to collect, account for, and report the collections and payments of direct taxes from all types of taxpayers. Banks provide their taxpayers' data straight to the Tax Information Network (TIN). To handle all the data and information regarding challans between the tax administration and the banks, the National Securities Depository Ltd. created and maintains TIN. The system is now directly incorporated into the online portal for income tax filing. [1] When OLTAS was first created, its goals were as follows[1]: Online accounting for direct taxes Online direct tax collection Online direct tax payment and receipt reporting OLTAS was introduced in three stages, and as of right now, 32 banks in the public and commercial sectors are authorized under it. In the beginning, the duty was limited to data pertaining to tax information. The initiative went online post April 2005. [3] Benefits of OLTAS\n1. A simplified challan in one copy is replaced by the previous quadruplicate challan; 2. Taxpayers can pay online at any time and from any location; 3. They can easily obtain an acknowledgment for taxes paid, which is available as soon as the bank authorizes payment; 4. Additionally, the acknowledgement counterfoil with the Challan Identification Number (CIN) rubber stamp ensures that the payment is properly accounted for; 5. All information and details regarding the tax payments are available online and can be easily checked; 6. The taxpayer no longer needs to include copies or acknowledgement of the challan with the return because they have the counterfoil. Mention of the CIN details in the income-tax returns is sufficient compliance of enclosing proof of payment of taxes. [1]\nOnline Tax Accounting System (OLTAS) Challan Status Inquiry Tax Deducted at Source (TDS)\nAfter taxes are paid, the taxpayer receives the torn-off piece of the counterfoil after it has been rubber stamped by the collecting bank. If the payment is made online, a challan is generated right away. The Challan Identification Number (CIN), a distinct serial number that includes the following, is present on the challan or counterfoil. The RBI assigns a seven-digit BSR Code to the bank branch\nwhere taxes are deposited. Date of Challan Presentation (DD/MM/YY) Challan's five-digit serial number in that bank branch on that particular day. [2] A taxpayer's CIN serves as proof of tax payment and must be included in income tax returns and correspondence with the income tax department as needed. Additionally, the need to include a hard copy of tax-paid receipts with an income tax return has been eliminated by CIN. As a result, the tax paid challan is crucial, and it is crucial to make sure that all the information on it is accurate. A taxpayer can check the progress of their tax payments online at any time. However, OLTAS operates in the same manner for both income tax paid directly by the income earner and TDS paid by the deductor. [2] Status Inquiry Status The Tax Deduction and Collection Account Number (TAN) or CIN of the deductor can be used to monitor the status of the TDS Challan. While the CIN-based view can be used to check the status of any type of tax payment, the TDS challan can be checked using both the CIN and TAN-based views. A week after the challan is deposited with the bank, the status can be viewed. [1] CIN based view From Tax Payers, Choose CIN Based View Enter the Challan tender date (the date of the cash or check deposit), the Challan serial number, the amount (optional), and the CIN, or the BSR code of the collecting bank branch. The taxpayer can view the following information after choosing the option: [1]\n1. The BSR Code 2. Deposit Date 3. Challan Serial Number 4. Descriptive Major Head Code 5. Permanent Account Number (TAN) 6. Taxpayer's Name 7. Received by TIN on (the day that TIN received it) 8. Verification that the amount entered (if submitted) is accurate[1] TAN-based view Go to the OLTAS website. Under \"For Tax Payers,\" select \"TAN based view.\" Enter the relevant period's TAN and Challan Tender Date range (it should be within 24 months). The following challan details for the chosen TAN and time can be downloaded as a text file after choosing this option: [1]\n● CIN ● Major Head Codes with descriptions ● Minor Head Codes ● Type of Payment\nThe system will verify whether the amount the taxpayer submits against their CIN matches the information the bank uploaded. The challan details listed in the Quarterly e-TDS/TCS statement should be confirmed using this file. Import the challan file and the text file (Quarterly e-TDS/TCS statement) into the File Validation Utility (FVU) in order to check the challan details. FVU will supply the matching statistic for the challan details listed in the Quarterly e-TDS/TCS statement upon successful validation. [1] FAQs\n1. What is meant by OLTAS challan? The Income Tax Department is the driving force behind OLTAS. It is an online and bank branch network system for accounting, gathering, and reporting direct tax payments and revenues. [1]\n2. Can I use the internet to submit the OLTAS challan? [1] Yes, You may do it online or offline by visiting any of the OLTAS authorised bank branches.\n3. What factors should be taken into account when paying for the OLTAS challan? The following are topics to consider when completing the OLTAS challan: 1. Choosing the appropriate tax payment head 2. Choosing the appropriate payment method 3. Entering the accurate sum 4. Verifying the type of payment chosen 5. Choosing the appropriate assessment year 6. Entering the deductor's accurate PAN and TAN information[1]\n4. What does \"claimed\" and \"unclaimed\" signify in relation to OLTAS challan status? Claimed refers to a sum in challan that matches the bank payment information and is displayed in the tax filer's TDS return. A bank payment that has not been claimed in return is known as an unclaimed challan. [1]\n5. Is it possible to file a single challan for several TDS challan payments? It is possible to submit a single TDS payment challan under several sections. There are\n6. What is CIN? CIN is Challan Identification Number, which is a unique serial number [1]\n7. Why was OLTAS introduced? In order to solve problems with the manual tax collecting and accounting procedure, which was error-prone and challenging to maintain, OLTAS was implemented in June 2004. The system's objectives were to increase accuracy, streamline tax payments, and use technology to increase productivity. [2]\n8. When can a taxpayer check the status of their TDS challan?\nThe status of a TDS challan can be viewed online approximately one week after the challan is deposited with the bank. [1] 9. What information does the TAN-based view provide for TDS challan status?\nThe TAN-based view allows taxpayers to check challan details such as the Challan Identification Number (CIN), Major and Minor Head Codes, and the type of payment for a specific TAN and time period. [1] 10. How can taxpayers ensure their challan details are accurate?\nTaxpayers can verify their challan details by importing the challan file and the Quarterly e- TDS/TCS statement into the File Validation Utility (FVU), which confirms whether the bank- uploaded information matches the taxpayer's records. [1] References:\n[1] https://cleartax.in/s/oltas-tds-challan#h0 [2] https://cleartax.in/s/oltas-online-tax-accounting-system#features [3] https://cleartax.in/s/oltas-online-tax-accounting-system Disclaimer:\nThe views expressed in this article is not to be construed as professional advice and users are advised to seek independent professional/expert advice before making any decisions based on the same. Bajaj Allianz Life Insurance Company Ltd., Regd. office Address: Bajaj Allianz House, Airport Road, Yerawada, Pune - 411006, Reg. No.: 116, CIN: U66010PN2001PLC015959, Call us on toll free No.: 1800 209 7272, Mail us: customercare@bajajallianz.co.in BJAZ-WEB-ECNF-13798/25",
+  "word_comments": [],
+  "changes": [
+    {
+      "change_type": "modified",
+      "word_original": "As a result, Challan 280 is no longer required or applicable. [1]",
+      "pdf_final": "As a result, Challan 280 is no longer required or applicable. [1] OLTAS [Online Tax Accounting System] is an online system that uses a network of bank branches to collect, account for, and report the collections and payments of direct taxes from all types of taxpayers.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "OLTAS [Online Tax Accounting System] is an online system that uses a network of bank branches to collect, account for, and report the collections and payments of direct taxes from all types of taxpayers.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "The system is now directly incorporated into the online portal for income tax filing. [1]",
+      "pdf_final": "The system is now directly incorporated into the online portal for income tax filing. [1] When OLTAS was first created, its goals were as follows[1]: Online accounting for direct taxes Online direct tax collection Online direct tax payment and receipt reporting OLTAS was introduced in three stages, and as of right now, 32 banks in the public and commercial sectors are authorized under it.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "When OLTAS was first created, its goals were as follows[1]:",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Online accounting for direct taxes",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Online direct tax collection",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Online direct tax payment and receipt reporting",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "OLTAS was introduced in three stages, and as of right now, 32 banks in the public and commercial sectors are authorized under it.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "The initiative went online in April 2005. [1]",
+      "pdf_final": "The initiative went online post April 2005. [3] Benefits of OLTAS",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Benefits of OLTAS",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "A simplified challan in one copy is replaced by the previous quadruplicate challan;",
+      "pdf_final": "A simplified challan in one copy is replaced by the previous quadruplicate challan; 2.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "2.",
+      "pdf_final": "Taxpayers can pay online at any time and from any location; 3.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Taxpayers can pay online at any time and from any location;",
+      "pdf_final": "They can easily obtain an acknowledgment for taxes paid, which is available as soon as the bank authorizes payment; 4.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "3.",
+      "pdf_final": "Additionally, the acknowledgement counterfoil with the Challan Identification Number (CIN) rubber stamp ensures that the payment is properly accounted for; 5.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "They can easily obtain an acknowledgment for taxes paid, which is available as soon as the bank authorizes payment;",
+      "pdf_final": "All information and details regarding the tax payments are available online and can be easily checked; 6.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "4.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Additionally, the acknowledgement counterfoil with the Challan Identification Number (CIN) rubber stamp ensures that the payment is properly accounted for;",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "5.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "All information and details regarding the tax payments are available online and can be easily checked;",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "6.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "The RBI assigns a seven-digit BSR Code to the bank branch where taxes are deposited.",
+      "pdf_final": "The RBI assigns a seven-digit BSR Code to the bank branch",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Date of Challan Presentation (DD/MM/YY) Challan's five-digit serial number in that bank branch on that particular day. [2]",
+      "pdf_final": "where taxes are deposited.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "A taxpayer's CIN serves as proof of tax payment and must be included in income tax returns and correspondence with the income tax department as needed.",
+      "pdf_final": "Date of Challan Presentation (DD/MM/YY) Challan's five-digit serial number in that bank branch on that particular day. [2] A taxpayer's CIN serves as proof of tax payment and must be included in income tax returns and correspondence with the income tax department as needed.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "However, OLTAS operates in the same manner for both income tax paid directly by the income earner and TDS paid by the deductor. [2]",
+      "pdf_final": "However, OLTAS operates in the same manner for both income tax paid directly by the income earner and TDS paid by the deductor. [2] Status Inquiry Status The Tax Deduction and Collection Account Number (TAN) or CIN of the deductor can be used to monitor the status of the TDS Challan.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Status Inquiry",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Status The Tax Deduction and Collection Account Number (TAN) or CIN of the deductor can be used to monitor the status of the TDS Challan.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "A week after the challan is deposited with the bank, the status can be viewed. [1]",
+      "pdf_final": "A week after the challan is deposited with the bank, the status can be viewed. [1] CIN based view From Tax Payers, Choose CIN Based View Enter the Challan tender date (the date of the cash or check deposit), the Challan serial number, the amount (optional), and the CIN, or the BSR code of the collecting bank branch.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "CIN based view",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "From Tax Payers, Choose CIN Based View",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Enter the Challan tender date (the date of the cash or check deposit), the Challan serial number, the amount (optional), and the CIN, or the BSR code of the collecting bank branch.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "The BSR Code",
+      "pdf_final": "1.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Deposit Date",
+      "pdf_final": "The BSR Code 2.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Challan Serial Number",
+      "pdf_final": "Deposit Date 3.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Descriptive Major Head Code",
+      "pdf_final": "Challan Serial Number 4.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Permanent Account Number (TAN)",
+      "pdf_final": "Descriptive Major Head Code 5.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Taxpayer's Name",
+      "pdf_final": "Permanent Account Number (TAN) 6.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Received by TIN on (the day that TIN received it)",
+      "pdf_final": "Taxpayer's Name 7.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Verification that the amount entered (if submitted) is accurate[1]",
+      "pdf_final": "Received by TIN on (the day that TIN received it) 8.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "TAN-based view",
+      "pdf_final": "Verification that the amount entered (if submitted) is accurate[1] TAN-based view Go to the OLTAS website.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Go to the OLTAS website.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "CIN",
+      "pdf_final": "● CIN ● Major Head Codes with descriptions ● Minor Head Codes ● Type of Payment",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Major Head Codes with descriptions",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Minor Head Codes",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Type of Payment",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "FVU will supply the matching statistic for the challan details listed in the Quarterly e-TDS/TCS statement upon successful validation. [1]",
+      "pdf_final": "FVU will supply the matching statistic for the challan details listed in the Quarterly e-TDS/TCS statement upon successful validation. [1] FAQs",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "FAQs",
+      "pdf_final": "1.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Can I use the internet to submit the OLTAS challan?",
+      "pdf_final": "2.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "To pay your taxes, you must complete a challan.",
+      "pdf_final": "Can I use the internet to submit the OLTAS challan? [1] Yes, You may do it online or offline by visiting any of the OLTAS authorised bank branches.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "It is accessible online, at banks, and at the income tax department.",
+      "pdf_final": "3.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Debit cards from approved banks or net banking can be used to make the payment online.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Hard copies of the OLTAS challan and the amount owed can also be turned in offline at actual bank counters. [1]",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "The following are topics to consider when completing the OLTAS challan:",
+      "pdf_final": "The following are topics to consider when completing the OLTAS challan: 1.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "1.",
+      "pdf_final": "Choosing the appropriate tax payment head 2.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Choosing the appropriate tax payment head",
+      "pdf_final": "Choosing the appropriate payment method 3.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "2.",
+      "pdf_final": "Entering the accurate sum 4.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Choosing the appropriate payment method",
+      "pdf_final": "Verifying the type of payment chosen 5.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "3.",
+      "pdf_final": "Choosing the appropriate assessment year 6.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Entering the accurate sum",
+      "pdf_final": "Entering the deductor's accurate PAN and TAN information[1]",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Verifying the type of payment chosen",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "5.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Choosing the appropriate assessment year",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "6.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Entering the deductor's accurate PAN and TAN information[1]",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "added",
+      "word_original": "",
+      "pdf_final": "5.",
+      "summary": "New sentence added in PDF"
+    },
+    {
+      "change_type": "added",
+      "word_original": "",
+      "pdf_final": "6.",
+      "summary": "New sentence added in PDF"
+    },
+    {
+      "change_type": "added",
+      "word_original": "",
+      "pdf_final": "7.",
+      "summary": "New sentence added in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "When can a taxpayer check the status of their TDS challan?The status of a TDS challan can be viewed online approximately one week after the challan is deposited with the bank. [1]",
+      "pdf_final": "8.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "What information does the TAN-based view provide for TDS challan status?The TAN-based view allows taxpayers to check challan details such as the Challan Identification Number (CIN), Major and Minor Head Codes, and the type of payment for a specific TAN and time period. [1]",
+      "pdf_final": "When can a taxpayer check the status of their TDS challan?",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "How can taxpayers ensure their challan details are accurate?Taxpayers can verify their challan details by importing the challan file and the Quarterly e-TDS/TCS statement into the File Validation Utility (FVU), which confirms whether the bank-uploaded information matches the taxpayer's records. [1]",
+      "pdf_final": "The status of a TDS challan can be viewed online approximately one week after the challan is deposited with the bank. [1] 9.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "References:",
+      "pdf_final": "What information does the TAN-based view provide for TDS challan status?",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "[1] https://cleartax.in/s/oltas-tds-challan#h0",
+      "pdf_final": "The TAN-based view allows taxpayers to check challan details such as the Challan Identification Number (CIN), Major and Minor Head Codes, and the type of payment for a specific TAN and time period. [1] 10.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "[2] https://cleartax.in/s/oltas-online-tax-accounting-system#features",
+      "pdf_final": "How can taxpayers ensure their challan details are accurate?",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Disclaimer:",
+      "pdf_final": "Taxpayers can verify their challan details by importing the challan file and the Quarterly e- TDS/TCS statement into the File Validation Utility (FVU), which confirms whether the bank- uploaded information matches the taxpayer's records. [1] References:",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "added",
+      "word_original": "",
+      "pdf_final": "[1] https://cleartax.in/s/oltas-tds-challan#h0 [2] https://cleartax.in/s/oltas-online-tax-accounting-system#features [3] https://cleartax.in/s/oltas-online-tax-accounting-system Disclaimer:",
+      "summary": "New sentence added in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "No.: 116, CIN: U66010PN2001PLC015959, Call us on toll free No.: 1800 209 7272, Mail us: customercare@bajajallianz.co.in",
+      "pdf_final": "No.: 116, CIN: U66010PN2001PLC015959, Call us on toll free No.: 1800 209 7272, Mail us: customercare@bajajallianz.co.in BJAZ-WEB-ECNF-13798/25",
+      "summary": "Sentence rewritten in PDF"
+    }
+  ],
+  "has_changes": true
+}

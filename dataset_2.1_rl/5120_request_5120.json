@@ -1,0 +1,15 @@
+{
+  "task": "insurance_compliance_rewrite",
+  "instruction": "Rewrite the content to meet insurance regulatory and compliance standards.",
+  "input": {
+    "draft_text": "The 5% Rule for Financial Freedom\nThe first thing to do to achieve financial freedom is to believe it is achievable. Typically, salaried individuals don’t think of planning ahead. Most millennials live from day to day, with highly disposable incomes that are spent on instant gratification expenses. Investing for the future is the last thing on their minds. They spend on tangible goods that they can find immediate satisfaction in. Rather than think of attaining financial freedom in the future, they may consider a new car more important than saving in a pension plan. Nonetheless, it is important to think ahead and start to grow a corpus that not only saves your wealth over a period, but grows it. The earlier in life you do this, the closer you will get to fiduciary freedom. The required corpus is ideally 20 times that of your yearly expenses. For instance, if your yearly expenditure after the age of 50 is Rs. 5 lakh, then your required corpus amounts to Rs. 1 crore. Hence, if you use 5% every year, your corpus will last for 20 years. This rule has a 96% probability of success for a period of 20 years.",
+    "compliance_comments": ""
+  },
+  "output": {
+    "final_text": "The 5% Rule for Financial Freedom\nThe first thing to do to achieve financial freedom is to believe it is achievable. Typically, salaried individuals don’t think of planning ahead. Most millennials live from day to day, with highly disposable incomes that are spent on instant gratification expenses. Investing for the future is the last thing on their minds. They spend on tangible goods that they can find immediate satisfaction in. Rather than think of attaining financial freedom in the future, they may consider a new car more important than saving in a pension plan. Nonetheless, it is important to think ahead and start to grow a corpus that not only saves your wealth over a period, but grows it. The earlier in life you do this, the closer you will get to fiduciary freedom. The required corpus is ideally 20 times that of your yearly expenses. For instance, if your yearly expenditure after the age of 50 is Rs. 5 lakh, then your required corpus amounts to Rs. 1 crore. Hence, if you use 5% every year, your corpus will last for 20 years. This rule has a 96% probability of success for a period of 20 years."
+  },
+  "metadata": {
+    "document_id": "5120",
+    "title": "Untitled"
+  }
+}

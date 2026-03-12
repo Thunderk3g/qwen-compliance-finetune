@@ -1,0 +1,15 @@
+{
+  "task": "insurance_compliance_rewrite",
+  "instruction": "Rewrite the content to meet insurance regulatory and compliance standards.",
+  "input": {
+    "draft_text": "The 100-Minus-Your-Age Rule\nEvery clever investor knows that a diversification of assets is a useful way to grow wealth, while minimising risk. To know how much equity to allocate to your financial portfolio, all you need to do is subtract your age from the number 100. For example, if your age is 30, minus this from 100. The result is 70. The calculation continues like this: invest 70% in equity, and the remaining 30% in debt. In contrast, if you are 50 years of age, minus this number from 100 and you get 50. Hence, you can afford to invest 50% in equity and 50% in debt. What this tells you is that the younger you are, the more you are able to take risks, rather than when you are older. As you grow in age, you should have more risk-averse investments, as you have a lesser amount of earning years ahead of you. This kind of computation helps you to allocate funds according to your age, and specific life stage.",
+    "compliance_comments": ""
+  },
+  "output": {
+    "final_text": "The 100-Minus-Your-Age Rule\nEvery clever investor knows that a diversification of assets is a useful way to grow wealth, while minimising risk. To know how much equity to allocate to your financial portfolio, all you need to do is subtract your age from the number 100. For example, if your age is 30, minus this from 100. The result is 70. The calculation continues like this: invest 70% in equity, and the remaining 30% in debt. In contrast, if you are 50 years of age, minus this number from 100 and you get 50. Hence, you can afford to invest 50% in equity and 50% in debt. What this tells you is that the younger you are, the more you are able to take risks, rather than when you are older. As you grow in age, you should have more risk-averse investments, as you have a lesser amount of earning years ahead of you. This kind of computation helps you to allocate funds according to your age, and specific life stage."
+  },
+  "metadata": {
+    "document_id": "5121",
+    "title": "Untitled"
+  }
+}

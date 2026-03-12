@@ -1,0 +1,15 @@
+{
+  "task": "insurance_compliance_rewrite",
+  "instruction": "Rewrite the content to meet insurance regulatory and compliance standards.",
+  "input": {
+    "draft_text": "The 6 X Emergency Rule\nIt's no secret that life is full of emergencies, be it health expenses cropping up, or other unpredictable events like loss of employment. You may also have dependents living with you, such as senior parents. As you know, illnesses and ailments are more common as age catches up. As you don’t get any warning for emergency costs, you should be well-prepared for these in advance. Otherwise, the strain of a lack of funds can leave you emotionally and financially drained. A rule of thumb to live by is to have 6 times your living expenses in an emergency fund. If you can, it's a good idea to stash away a year’s worth of living expenses. The more you collect in your emergency fund, the less worry you will have. You may think that insurance is a good way to ensure some way of tiding over unforeseen events, and this may be a constructive plan. Nonetheless, cash in the bank, easily liquefiable, is something you may get access to more urgently",
+    "compliance_comments": ""
+  },
+  "output": {
+    "final_text": "The 6 X Emergency Rule\nIt's no secret that life is full of emergencies, be it health expenses cropping up, or other unpredictable events like loss of employment. You may also have dependents living with you, such as senior parents. As you know, illnesses and ailments are more common as age catches up. As you don’t get any warning for emergency costs, you should be well-prepared for these in advance. Otherwise, the strain of a lack of funds can leave you emotionally and financially drained. A rule of thumb to live by is to have 6 times your living expenses in an emergency fund. If you can, it's a good idea to stash away a year’s worth of living expenses. The more you collect in your emergency fund, the less worry you will have. You may think that insurance is a good way to ensure some way of tiding over unforeseen events, and this may be a constructive plan. Nonetheless, cash in the bank, easily liquefiable, is something you may get access to more urgently"
+  },
+  "metadata": {
+    "document_id": "5124",
+    "title": "Untitled"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "task": "insurance_compliance_rewrite",
+  "instruction": "Rewrite the content to meet insurance regulatory and compliance standards.",
+  "input": {
+    "draft_text": "The 10-5-3 Rule\nWhen you are young, you can take a moderate amount of risk in terms of choosing instruments to allocate your wealth to. This is because you have a flourishing career ahead of you and your income can only grow. Additionally, if you start to allocate your funds in a systematic way, especially when you do not have any responsibilities, you can save more until family responsibilities come knocking at your door. For example, in your twenties, you can take chances with equities and invest a moderate amount of your salary to gain decent returns. Depending on the specific assets you have invested in, or are planning to invest in, you should know what to expect with regard to rates of return. Reasonable returns from the following assets are highlighted below:\nReturns from Equities and Mutual Funds - 10%\nReturns from Debt (FDs or other fixed instruments) - 5%\nReturns from Savings Accounts - 3%\nIf you are a salaried individual and are earning a regular income, you should have a combination of the above assets to ensure reasonable returns as mentioned above. With such returns, you can be assured of financial protection, and the growth of wealth.",
+    "compliance_comments": ""
+  },
+  "output": {
+    "final_text": "The 10-5-3 Rule\nWhen you are young, you can take a moderate amount of risk in terms of choosing instruments to allocate your wealth to. This is because you have a flourishing career ahead of you and your income can only grow. Additionally, if you start to allocate your funds in a systematic way, especially when you do not have any responsibilities, you can save more until family responsibilities come knocking at your door. For example, in your twenties, you can take chances with equities and invest a moderate amount of your salary to gain decent returns. Depending on the specific assets you have invested in, or are planning to invest in, you should know what to expect with regard to rates of return. Reasonable returns from the following assets are highlighted below:\nReturns from Equities and Mutual Funds - 10%\nReturns from Debt (FDs or other fixed instruments) - 5%\nReturns from Savings Accounts - 3%\nIf you are a salaried individual and are earning a regular income, you should have a combination of the above assets to ensure reasonable returns as mentioned above. With such returns, you can be assured of financial protection, and the growth of wealth."
+  },
+  "metadata": {
+    "document_id": "5122",
+    "title": "Untitled"
+  }
+}

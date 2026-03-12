@@ -1,0 +1,275 @@
+{
+  "document_id": "25745",
+  "title": "NA-Non ULIP",
+  "word_text": "Present Value of an Annuity: Formula, Examples, and How To Calculate\nBefore making long-term financial decisions like choosing between a lump sum payout or monthly payments, it's important to know what your money is really worth today. That’s where the present value of annuity formula comes in. It shows you the value of future payments in today’s terms, using interest rates and time as key factors. This idea isn’t just for experts. Whether you're planning for retirement, managing insurance payouts, or reviewing investment returns, the present value of an annuity formula can help you compare your options clearly.\nIf you’ve ever asked, what is present value of annuity, think of it as a way to understand how much a series of future payments is worth now. Using tools like a present value of annuity calculator, or understanding the annuity formula, annuity factor formula, and the overall annuity method, you can make choices that suit your financial goals.\nWhat is the Present Value of an Annuity?\nThe present value of an annuity formula is used to figure out how much future payments are worth today. Simply put, it helps you see what your future money would be worth if you got it now. This is because money today can earn interest, so it is more valuable than the same amount received later.\nThis formula is often used when comparing a lump sum with regular payments over time. It’s helpful for retirement planning, insurance payouts, or investment analysis. One key thing to remember when using the formula is the discount rate. This is the assumed rate of return that helps adjust future payments to their value today. The higher the discount rate, the lower the value of your future payments.\nHow Does the Present Value of an Annuity Work?\nThe present value of an annuity works on the concept of the time value of money. The idea states that your money is worth more today than it will be tomorrow. In the future, the value of money is expected to decrease.\nThe present value shows the current value of future annuities, i.e., how much annuity you can get today compared to what you can get after a specified number of years.\nThe present value of an annuity depends on the discount rate and the frequency of the annuity payments. You can use the present value of annuity calculator to find the current value of future cash flows.\nFormula and Calculation of the Present Value of an Annuity\nTo calculate the present value of an annuity, the following formula is used:\nP = PMT × [(1 - (1 / (1 + r)^n)) / r]\nWhere:\nP = Present value of the annuity\nPMT = Each annuity payment\nr = Discount rate (rate of return)\nn = Number of payment periods\nThis annuity formula works for an ordinary annuity, where payments are received at the end of each period. For an annuity due, where payments are made at the beginning of each period, the result is multiplied by (1 + r).\nExample of the Present Value of an Annuity\nSuppose you are offered an annuity that pays ₹50,000 per year for the next 25 years. The discount rate (rate of return) is 6% annually. You want to find out what this annuity is worth today.\nUsing the formula:\nP = 50,000 × [(1 - (1 / (1 + 0.06)^25)) / 0.06]\nStep-by-step:\n(1 + 0.06)^25 = 4.29187\n1 / 4.29187 = 0.2331\n1 - 0.2331 = 0.7669\n0.7669 / 0.06 = 12.7816\n50,000 × 12.7816 = ₹639,080 (approx.)\nIf you're also offered a lump sum of ₹6.5 lakh today, the annuity factor formula helps you compare both options. Since ₹6.5 lakh is slightly higher than the present value of the annuity, the lump sum may be a better choice, depending on your financial priorities, tax impact, and other returns available.\nUsing an Online Calculator for the Present Value of the Annuity\nA present value of annuity calculator simplifies this process. Most financial websites offer this tool, where you input:\nPayment frequency (yearly, monthly)\nPayment amount\nNumber of payments\nDiscount rate\nThese calculators offer a quick way to understand the current value of your annuity, but for specific scenarios, consulting a financial advisor is advisable.\nFactors Affecting the Present Value of an Annuity\nUnderstanding what can affect the value of an annuity helps you make better financial choices:\nInterest Rate:\nA higher rate means future payments are worth less today.\nTime Period:\nThe longer the wait, the lower the present value.\nPayment Frequency and Amount:\nMore frequent and larger payments increase value.\nInflation:\nReduces the real value of future payments.\nPresent Value and the Discount Rate\nThe discount rate plays a key role in present value calculations. It reflects what you might earn if you invested your money elsewhere. For example, if government bonds yield 5%, that could be used as a discount rate.\nA higher discount rate results in a lower PV of annuity, while a lower rate makes future payments seem more valuable today.\nAnnuity vs. Annuity Due\nOrdinary Annuity:\nPayments made at end of each period.\nAnnuity Due:\nPayments made at beginning of each period.\nFor annuity due, multiply the standard annuity formula by (1 + r). This gives a higher present value since payments come sooner.\nKey takeaways\nThe present value of an annuity works on the concept of the time value of money. This concept states that an annuity payment today would be worth more than the payment received in the future.\nThe concept of present value is suitable for planning your retirement.\nThe present value of an annuity is calculated using the formula - P = Amount × [(1 - (1 / (1 + r)^n)) / r] – where ‘r’ is the rate of discount and ‘n’ is the number of periods.\nThe present value of an annuity depends on the discount rate, the frequency of annuity payouts, inflation, and other factors.\nThere are two primary types of annuity payouts: ordinary annuity and annuity due. While the former pays the annuity at the end of each period, the latter pays it at the start.\nConclusion\nCalculation of the present value for an annuity is important when it comes to decisions related to long-term investment. It includes retirement planning, insurance settlements, and investment evaluations. If you know the annuity formula or use a present value of annuity calculator, you are in a much better position to decide between a lump sum today or periodic payments at some point in the future. Keep in mind that present value is influenced by several factors, like interest rate, inflation, and how often income is received; therefore, you will only be estimating value. An understanding of the annuity factor formula and regularly using the present value of an annuity formula will help you with scheduling and presenting effective financial comparisons and planning for the future.\nFAQs\n1) How reliable are online annuity calculators?\nOnline annuity calculators are useful for quick, general estimates. They help you understand the value of future annuity payments. However, they often make simple assumptions and may not account for factors like taxes, fees, or market changes. While they are a good starting point, it's always a good idea to check with a financial expert for more accurate results based on your personal situation.\n2) What is the present value of an annuity table?\nA present value of an annuity table shows values for different interest rates and time periods. You use it to find out how much future payments are worth today. Simply multiply the annuity payment by the table value. This table is a quick tool when you don’t have a calculator, and it's often used by professionals to compare annuity options easily.\n3) How do you calculate the present value of an annuity?\nTo calculate the present value of an annuity, use this formula:P = PMT × [(1 - (1 / (1 + r)^n)) / r]This involves the payment amount (PMT), the discount rate (r), and the number of periods (n). You can calculate this manually, use an online calculator, or refer to an annuity table. The goal is to determine the present value of future payments.\n4) Why is the present value of an annuity calculated?\nThe present value of an annuity is calculated to understand how much future payments are worth today. This is helpful when evaluating retirement plans, insurance policies, or settlements. Comparing the present value to a lump sum helps you decide which option better matches your financial goals. It provides clarity, but should be used with other financial factors in mind.\n5) What is the PV of a growing annuity?\nThe PV of a growing annuity shows the present value of annuity payouts that grow at a specified rate and at specified intervals.\nDisclaimer\nThe views stated in this article are not to be construed as investment advice and readers are suggested to seek independent financial advice before making any investment decisions. For more details on risk factors, terms and conditions please read the sales brochure & policy document (available on www.bajajlifeinsurance.com) carefully before concluding a sale. Bajaj Life Insurance Limited (Formerly known as Bajaj Allianz Life Insurance Company Limited) Reg. Office Address: Bajaj Insurance House, Airport Road, Yerawada, Pune - 411006. CIN: U66010PN2001PLC015959,  call us on Customer Care No. 020-6712 1212 , mail us on: customercare@bajajlife.com. The Logo of Bajaj Life Insurance Limited is provided on the basis of license given by Bajaj Finserv Ltd. to use its “Bajaj” Logo.",
+  "full_pdf_text": "Present Value of an Annuity: Formula, Examples, and How To Calculate\nBefore making long-term financial decisions like choosing between a lump sum payout or monthly payments, it's important to know what your money is really worth today. That’s where the present value of annuity formula comes in. It shows you the value of future payments in today’s terms, using interest rates and time as key factors. This idea isn’t just for experts. Whether you're planning for retirement, managing insurance payouts, or reviewing investment returns, the present value of an annuity formula can help you compare your options clearly.\nIf you’ve ever asked, what is present value of annuity, think of it as a way to understand how much a series of future payments is worth now. Using tools like a present value of annuity calculator, or understanding the annuity formula, annuity factor formula, and the overall annuity method, you can make choices that suit your financial goals.\nWhat is the Present Value of an Annuity?\nThe present value of an annuity formula is used to figure out how much future payments are worth today. Simply put, it helps you see what your future money would be worth if you got it now. This is because money today can earn interest, so it is more valuable than the same amount received later.\nThis formula is often used when comparing a lump sum with regular payments over time. It’s helpful for retirement planning, insurance payouts, or investment analysis. One key thing to remember when using the formula is the discount rate. This is the assumed rate of return that helps adjust future payments to their value today. The higher the discount rate, the lower the value of your future payments.\nHow Does the Present Value of an Annuity Work?1\nThe present value of an annuity works on the concept of the time value of money. The idea states that your money is worth more today than it will be tomorrow. In the future, the value of money is expected to decrease.\nThe present value shows the current value of future annuities, i.e., how much annuity you can get today compared to what you can get after a specified number of years.\nThe present value of an annuity depends on the discount rate and the frequency of the annuity payments. You can use the present value of annuity calculator to find the current value of future cash flows.\nFormula and Calculation of the Present Value of an Annuity\nTo calculate the present value of an annuity, the following formula is used:\nP = PMT × [(1 - (1 / (1 + r)^n)) / r]\nWhere:\n● P = Present value of the annuity\n● PMT = Each annuity payment\n● r = Discount rate (rate of return)\n● n = Number of payment periods\nThis annuity formula works for an ordinary annuity, where payments are received at the end of each period. For an annuity due, where payments are made at the beginning of each period, the result is multiplied by (1 + r).\nExample of the Present Value of an Annuity\nSuppose you are offered an annuity that pays ₹50,000 per year for the next 25 years. The discount rate (rate of return) is 6% annually. You want to find out what this annuity is worth today.\nUsing the formula:\nP = 50,000 × [(1 - (1 / (1 + 0.06)^25)) / 0.06]\nStep-by-step:\n● (1 + 0.06)^25 = 4.29187\n● 1 / 4.29187 = 0.2331\n● 1 - 0.2331 = 0.7669\n● 0.7669 / 0.06 = 12.7816\n● 50,000 × 12.7816 = ₹639,080 (approx.)\nIf you're also offered a lump sum of ₹6.5 lakh today, the annuity factor formula helps you compare both options. Since ₹6.5 lakh is slightly higher than the present value of the annuity, the lump sum may be a better choice, depending on your financial priorities, tax impact, and other returns available.\nUsing an Online Calculator for the Present Value of the Annuity\nA present value of annuity calculator simplifies this process. Most financial websites offer this tool, where you input:\n● Payment frequency (yearly, monthly)\n● Payment amount\n● Number of payments\n● Discount rate\nThese calculators offer a quick way to understand the current value of your annuity, but for specific scenarios, consulting a financial advisor is advisable.\nFactors Affecting the Present Value of an Annuity\nUnderstanding what can affect the value of an annuity helps you make better financial choices:\n● Interest Rate:\nA higher rate means future payments are worth less today.\n● Time Period:\nThe longer the wait, the lower the present value.\n● Payment Frequency and Amount:\nMore frequent and larger payments increase value.\n● Inflation:\nReduces the real value of future payments.\nPresent Value and the Discount Rate\nThe discount rate plays a key role in present value calculations. It reflects what you might earn if you invested your money elsewhere. For example, if government bonds yield 5%, that could be used as a discount rate.\nA higher discount rate results in a lower PV of annuity, while a lower rate makes future payments seem more valuable today.\nAnnuity vs. Annuity Due\n● Ordinary Annuity:\nPayments made at end of each period.\n● Annuity Due:\nPayments made at beginning of each period.\nFor annuity due, multiply the standard annuity formula by (1 + r). This gives a higher present value since payments come sooner.\nKey takeaways\n● The present value of an annuity works on the concept of the time value of money. This concept states that an annuity payment today would be worth more than the payment received in the future.\n● The concept of present value is suitable for planning your retirement.\n● The present value of an annuity is calculated using the formula - PVAD = PMT × [(1 - (1 + r)^n)) / t]*(1+r) – where ‘r’ is the rate of discount and ‘n’ is the number of periods. PVAD represents present value of an annuity due and PMT refers to cash payment per period.\n● The present value of an annuity depends on the discount rate, the frequency of annuity payouts, inflation, and other factors.\n● There are two primary types of annuity payouts: ordinary annuity and annuity due. While the former pays the annuity at the end of each period, the latter pays it at the start.\nConclusion\nCalculation of the present value for an annuity is important when it comes to decisions related to long-term investment. It includes retirement planning, insurance settlements, and investment evaluations. If you know the annuity formula or use a present value of annuity calculator, you are in a much better position to decide between a lump sum today or periodic payments at some point in the future. Keep in mind that present value is influenced by several factors, like interest rate, inflation, and how often income is received; therefore, you will only be estimating value. An understanding of the annuity factor formula and regularly using the present value of an annuity formula will help you with scheduling and presenting effective financial comparisons and planning for the future.\nFAQs\n1) How reliable are online annuity calculators?\nOnline annuity calculators are useful for quick, general estimates. They help you understand the value of future annuity payments. However, they often make simple assumptions and may not account for factors like taxes, fees, or market changes. While they are a good starting point, it's always a good idea to check with a financial expert for more accurate results based on your personal situation.\n2) What is the present value of an annuity table?\nA present value of an annuity table shows values for different interest rates and time periods. You use it to find out how much future payments are worth today. Simply multiply the annuity payment by the table value. This table is a quick tool when you don’t have a calculator, and it's often used by professionals to compare annuity options easily.\n3) How do you calculate the present value of an annuity?\nTo calculate the present value of an annuity, use this formula: P = PMT × [(1 - (1 / (1 + r)^n)) / r] This involves the payment amount (PMT), the discount rate (r), and the number of periods (n). You can calculate this manually, use an online calculator, or refer to an annuity table. The goal is to determine the present value of future payments.\n4) Why is the present value of an annuity calculated?\nThe present value of an annuity is calculated to understand how much future payments are worth today. This is helpful when evaluating retirement plans, insurance policies, or settlements. Comparing the present value to a lump sum helps you decide which option better matches your financial goals. It provides clarity, but should be used with other financial factors in mind.\n5) What is the PV of a growing annuity?\nThe PV of a growing annuity shows the present value of annuity payouts that grow at a specified rate and at specified intervals.\nDisclaimer\nThe content provided is for general informational purposes only. The material is compiled from publicly available sources, internal insights, and other information deemed reliable. While reasonable care has been taken in compiling the information, Bajaj Life Insurance Limited (Formerly\nknown as Bajaj Allianz Life Insurance Company Limited) assumes no liability for its accuracy. The opinions expressed do not constitute formal recommendations, professional advice, or definitive guidance. Readers are encouraged to conduct their own due diligence and are advised to seek independent professional or expert advice before making any financial or investment decisions based on the content. Any illustrations included are for conceptual clarity only and do not reflect the actual performance of any product or offering.\nSources\n1. https://www.annuity.org/selling-payments/present-value/\nBLIC-WEB-ECNF-19248/25",
+  "word_comments": [
+    {
+      "author": "TM CREATOR",
+      "comment": "https://www.annuity.org/selling-payments/present-value/",
+      "paragraph_context": "The present value of an annuity depends on the discount rate and the frequency o..."
+    },
+    {
+      "author": "TM CREATOR",
+      "comment": "https://www.annuity.org/selling-payments/present-value/",
+      "paragraph_context": "The present value of an annuity works on the concept of the time value of money...."
+    },
+    {
+      "author": "TM CREATOR",
+      "comment": "https://www.annuity.org/selling-payments/present-value/",
+      "paragraph_context": "The present value of an annuity is calculated using the formula - P = Amount × [..."
+    },
+    {
+      "author": "TM CREATOR",
+      "comment": "https://www.annuity.org/selling-payments/present-value/",
+      "paragraph_context": "The present value of an annuity depends on the discount rate, the frequency of a..."
+    },
+    {
+      "author": "TM CREATOR",
+      "comment": "taken from existing content. Hence no source",
+      "paragraph_context": "There are two primary types of annuity payouts: ordinary annuity and annuity due..."
+    },
+    {
+      "author": "TM CREATOR",
+      "comment": "https://studyfinance.com/present-value-of-a-growing-annuity/",
+      "paragraph_context": "The PV of a growing annuity shows the present value of annuity payouts that grow..."
+    }
+  ],
+  "changes": [
+    {
+      "change_type": "modified",
+      "word_original": "It’s helpful for retirement planning, insurance payouts, or investment analysis.",
+      "pdf_final": "It’s helpful for retirement planning, insurance payouts, or investment analysis.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "How Does the Present Value of an Annuity Work?",
+      "pdf_final": "How Does the Present Value of an Annuity Work?1",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "P = Present value of the annuity",
+      "pdf_final": "● P = Present value of the annuity",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "PMT = Each annuity payment",
+      "pdf_final": "● PMT = Each annuity payment",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "r = Discount rate (rate of return)",
+      "pdf_final": "● r = Discount rate (rate of return)",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "n = Number of payment periods",
+      "pdf_final": "● n = Number of payment periods",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "(1 + 0.06)^25 = 4.29187",
+      "pdf_final": "● (1 + 0.06)^25 = 4.29187",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "1 / 4.29187 = 0.2331",
+      "pdf_final": "● 1 / 4.29187 = 0.2331",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "1 - 0.2331 = 0.7669",
+      "pdf_final": "● 1 - 0.2331 = 0.7669",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "0.7669 / 0.06 = 12.7816",
+      "pdf_final": "● 0.7669 / 0.06 = 12.7816",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "50,000 × 12.7816 = ₹639,080 (approx.)",
+      "pdf_final": "● 50,000 × 12.7816 = ₹639,080 (approx.)",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Payment frequency (yearly, monthly)",
+      "pdf_final": "● Payment frequency (yearly, monthly)",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Payment amount",
+      "pdf_final": "● Payment amount",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Number of payments",
+      "pdf_final": "● Number of payments",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Discount rate",
+      "pdf_final": "● Discount rate",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Interest Rate:",
+      "pdf_final": "● Interest Rate:",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Time Period:",
+      "pdf_final": "● Time Period:",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Payment Frequency and Amount:",
+      "pdf_final": "● Payment Frequency and Amount:",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Inflation:",
+      "pdf_final": "● Inflation:",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Ordinary Annuity:",
+      "pdf_final": "● Ordinary Annuity:",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Annuity Due:",
+      "pdf_final": "● Annuity Due:",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "The present value of an annuity works on the concept of the time value of money.",
+      "pdf_final": "● The present value of an annuity works on the concept of the time value of money.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "The concept of present value is suitable for planning your retirement.",
+      "pdf_final": "● The concept of present value is suitable for planning your retirement.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "The present value of an annuity is calculated using the formula - P = Amount × [(1 - (1 / (1 + r)^n)) / r] – where ‘r’ is the rate of discount and ‘n’ is the number of periods.",
+      "pdf_final": "● The present value of an annuity is calculated using the formula - PVAD = PMT × [(1 - (1 + r)^n)) / t]*(1+r) – where ‘r’ is the rate of discount and ‘n’ is the number of periods.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "The present value of an annuity depends on the discount rate, the frequency of annuity payouts, inflation, and other factors.",
+      "pdf_final": "PVAD represents present value of an annuity due and PMT refers to cash payment per period.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "There are two primary types of annuity payouts: ordinary annuity and annuity due.",
+      "pdf_final": "● The present value of an annuity depends on the discount rate, the frequency of annuity payouts, inflation, and other factors.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "added",
+      "word_original": "",
+      "pdf_final": "● There are two primary types of annuity payouts: ordinary annuity and annuity due.",
+      "summary": "New sentence added in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "To calculate the present value of an annuity, use this formula:P = PMT × [(1 - (1 / (1 + r)^n)) / r]This involves the payment amount (PMT), the discount rate (r), and the number of periods (n).",
+      "pdf_final": "To calculate the present value of an annuity, use this formula: P = PMT × [(1 - (1 / (1 + r)^n)) / r] This involves the payment amount (PMT), the discount rate (r), and the number of periods (n).",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "This is helpful when evaluating retirement plans, insurance policies, or settlements.",
+      "pdf_final": "This is helpful when evaluating retirement plans, insurance policies, or settlements.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "The views stated in this article are not to be construed as investment advice and readers are suggested to seek independent financial advice before making any investment decisions.",
+      "pdf_final": "The content provided is for general informational purposes only.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "For more details on risk factors, terms and conditions please read the sales brochure & policy document (available on www.bajajlifeinsurance.com) carefully before concluding a sale.",
+      "pdf_final": "The material is compiled from publicly available sources, internal insights, and other information deemed reliable.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Bajaj Life Insurance Limited (Formerly known as Bajaj Allianz Life Insurance Company Limited) Reg.",
+      "pdf_final": "While reasonable care has been taken in compiling the information, Bajaj Life Insurance Limited (Formerly",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Office Address: Bajaj Insurance House, Airport Road, Yerawada, Pune - 411006.",
+      "pdf_final": "known as Bajaj Allianz Life Insurance Company Limited) assumes no liability for its accuracy.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "CIN: U66010PN2001PLC015959,  call us on Customer Care No. 020-6712 1212 , mail us on: customercare@bajajlife.com.",
+      "pdf_final": "The opinions expressed do not constitute formal recommendations, professional advice, or definitive guidance.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "The Logo of Bajaj Life Insurance Limited is provided on the basis of license given by Bajaj Finserv Ltd. to use its “Bajaj” Logo.",
+      "pdf_final": "Readers are encouraged to conduct their own due diligence and are advised to seek independent professional or expert advice before making any financial or investment decisions based on the content.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "added",
+      "word_original": "",
+      "pdf_final": "Any illustrations included are for conceptual clarity only and do not reflect the actual performance of any product or offering.",
+      "summary": "New sentence added in PDF"
+    },
+    {
+      "change_type": "added",
+      "word_original": "",
+      "pdf_final": "Sources",
+      "summary": "New sentence added in PDF"
+    },
+    {
+      "change_type": "added",
+      "word_original": "",
+      "pdf_final": "1. https://www.annuity.org/selling-payments/present-value/",
+      "summary": "New sentence added in PDF"
+    },
+    {
+      "change_type": "added",
+      "word_original": "",
+      "pdf_final": "BLIC-WEB-ECNF-19248/25",
+      "summary": "New sentence added in PDF"
+    }
+  ],
+  "has_changes": true
+}

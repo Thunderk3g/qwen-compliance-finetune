@@ -1,0 +1,15 @@
+{
+  "task": "insurance_compliance_rewrite",
+  "instruction": "Rewrite the content to meet insurance regulatory and compliance standards.",
+  "input": {
+    "draft_text": "The 40℅ EMI Rule\nIn the digital age we live and breathe in today, consumers have material desires that can only be fulfilled by EMIs. EMIs or equated monthly instalments enable people to make their purchases more affordable, especially those that involve big-ticket items. Most consumers purchase products and services this way, but if you are not careful, EMIs can pile up. After all, an EMI facility is a kind of loan you take from your credit card or finance company. it has to be paid back over a tenure. Also, sometimes, EMIs are paid back with interest charged. If you fail to make payments on a monthly basis, or do not make them on time, you are charged penalties. These amounts, in turn, are a challenge to pay. Consequently, you land in a sea of debt. In view of this, you should always stick to the boundaries of keeping your EMIs within 40% of your income. For example, if you earn Rs. 50,000 per month, you should maintain your EMI payment at Rs. 20,000 or less. Such a rule is effectively used by finance firms while providing loans. It's useful to manage your own finances in a productive way as well.",
+    "compliance_comments": ""
+  },
+  "output": {
+    "final_text": "The 40℅ EMI Rule\nIn the digital age we live and breathe in today, consumers have material desires that can only be fulfilled by EMIs. EMIs or equated monthly instalments enable people to make their purchases more affordable, especially those that involve big-ticket items. Most consumers purchase products and services this way, but if you are not careful, EMIs can pile up. After all, an EMI facility is a kind of loan you take from your credit card or finance company. it has to be paid back over a tenure. Also, sometimes, EMIs are paid back with interest charged. If you fail to make payments on a monthly basis, or do not make them on time, you are charged penalties. These amounts, in turn, are a challenge to pay. Consequently, you land in a sea of debt. In view of this, you should always stick to the boundaries of keeping your EMIs within 40% of your income. For example, if you earn Rs. 50,000 per month, you should maintain your EMI payment at Rs. 20,000 or less. Such a rule is effectively used by finance firms while providing loans. It's useful to manage your own finances in a productive way as well."
+  },
+  "metadata": {
+    "document_id": "5125",
+    "title": "Untitled"
+  }
+}

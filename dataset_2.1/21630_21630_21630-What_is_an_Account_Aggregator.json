@@ -1,0 +1,198 @@
+{
+  "document_id": "21630",
+  "title": "NA-Non ULIP",
+  "word_text": "What is an Account Aggregator? Benefits, Registration Process, and Use-cases in Life Insurance\nIn today’s digital-first financial landscape, data plays a crucial role in helping individuals access the right products and services. Managing personal financial data, however, can be complex—especially when it is scattered across different institutions. This is where the Account Aggregator (AA) framework, regulated by the Reserve Bank of India (RBI), comes into play. It empowers individuals to share their financial data securely and in a controlled manner with regulated financial institutions.\nIn this article, we’ll explore what an Account Aggregator is, how it benefits you, how to register, and what it means for the life insurance industry.\nWhat is an Account Aggregator?\nAn Account Aggregator is a RBI-regulated entity that provides a specialized service involving the retrieval and aggregation of financial data from various Financial Information Providers (FIPs), relating to a specific customer. This data is subsequently structured, organized, and presented to the customer or other authorized entities, such as Financial Information Users (FIUs), exclusively based on the explicit consent granted by the customer.\nThe main goal of the Account Aggregator system is to empower individuals with control over their data, enabling them to share it in a secure, consent-driven, and standardised way.\nKey Participants in the AA Ecosystem\nHere’s a simplified view of how the AA ecosystem functions:\nAccount Aggregator (AA): Acts as a data-sharing intermediary.\nFIP (Financial Information Provider): Institutions like banks or non-banking financial company, asset management company etc. that hold your data.\nFIU (Financial Information User): Entities like insurers or lenders that require your data to offer you a product or service.\nCustomer: You, who gives consent to share your data via AA.\nBenefits of Using an Account Aggregator\nThe Account Aggregator system is designed with the individual at the centre. Here are some key benefits:\n1. Data Empowerment\nWith an AA,  you know what data you are sharing, with whom and for how long. This empowers you to take charge of your financial information.\n2. Secure and Consent-Based\nData sharing happens only when you provide clear and specific consent. Your data is encrypted and not stored by the AA.\n3. Faster Financial Access\nWhether you are applying for a loan, buying life insurance, or seeking investment advice, sharing verified financial data digitally reduces paperwork and speeds up the decision-making process.\n4. Paperless and Instant\nThe entire process is digital, eliminating the need for physical documents. It saves time and ensures accuracy.\nHow to Register with an Account Aggregator\nRegistering with an Account Aggregator is simple and user-friendly. There are multiple ways in which you can register yourself, example: directly through an account aggregator website / application, OR through your product / service provider such as an insurer / NBFC etc.\nGiven below is an example of how you can register directly through an account aggregator website / application:\nStep 1: Choose a Registered AA\nVisit the website or download the app of an RBI-licensed Account Aggregator such as CAMS Finserv, PhonePe AA, or Finvu. The full list is available on the RBI website.\nStep 2: Create an AA Account\nSign up by entering your mobile number linked to your bank accounts. You will receive an OTP for verification.\nStep 3: Link Your Financial Accounts\nYou can select which bank accounts or financial services you want to link to the AA platform. This linking happens through consent and may require authentication.\nStep 4: Share Consent\nWhenever you apply for a financial product (e.g., a loan or life insurance policy), you can give consent via your AA to share specific financial data with that institution.\nStep 5: Revoke Consent Anytime\nYou can revoke or modify your data-sharing permissions anytime through the AA interface.\nNote: The actual steps may vary depending on the platform.\nUse Case Example: Buying a Life Insurance Policy\nLet’s say you want to purchase a term life insurance plan with a ₹1 crore cover. Traditionally, you might need to provide income proof, past tax returns, and more. Through the AA system, you can:\nShare your bank account statement(s) instantly with the insurer.\nHelps in underwriting and processing insurance policies more efficiently.\nReceive a personalised premium quote that are tailored to the customer's specific financial situation and needs.\nComplete your purchase within minutes—paperless and hassle-free.\nThis ensures faster access to financial protection for you and your family.\nIs It Safe to Use an Account Aggregator?\nYes. Account Aggregators are licensed and regulated by the RBI, and all data sharing is done through secure APIs with end-to-end encryption. Moreover:\nYour data is never stored by the AA.\nYou have complete control and visibility over what is shared.\nYou can revoke access at any time.\nConclusion\nThe Account Aggregator framework is a significant step forward in India’s journey towards a digitally empowered financial ecosystem. It puts you, the individual, in control of your data and helps you access life insurance and other financial services more efficiently.\nWhether you are planning for your family's financial security or building long-term savings, Account Aggregators can make the process smoother, faster, and more secure.\nFrequently Asked Questions (FAQs)\n1. Is registering with an Account Aggregator mandatory to buy life insurance?\nNo, it is optional. However, using an AA can simplify the process and reduce documentation.\n2. Does the Account Aggregator store my data?\nNo. It only facilitates data transfer between institutions after you provide consent. It does not store your financial data.\n3. Can I use one AA for all my financial accounts?\nYes, if your financial service provider (bank / NBFC / insurer etc.) is associated with the selected AA, you get the flexibility to use same AA for all your financial accounts.\n4. What if I change my mind after sharing consent?\nYou can revoke or modify your consent anytime using the AA platform.\n5. Is there a cost to using an Account Aggregator?\nCost of using an AA would depend upon the policies of your service provider. It is advisable to check with your service provider.\nDisclaimer:\nThe content provided is for general informational purposes only. The material is compiled from publicly available sources, internal insights, and other information deemed reliable. While reasonable care has been taken in compiling the information, Bajaj Allianz Life Insurance Co. Ltd. assumes no liability for its accuracy. The opinions expressed do not constitute formal recommendations, professional advice, or definitive guidance. Readers are encouraged to conduct their own due diligence and are advised to seek independent professional or expert advice before making any financial or investment decisions based on the content. Any illustrations included are for conceptual clarity only and do not reflect the actual performance of any product or offering.",
+  "full_pdf_text": "What is an Account Aggregator? Benefits, Registration Process, and Use-cases in Life Insurance\nIn today’s digital-first financial landscape, data plays a crucial role in helping individuals access the right products and services. Managing personal financial data, however, can be complex—especially when it is scattered across different institutions. This is where the Account Aggregator (AA) framework, regulated by the Reserve Bank of India (RBI), comes into play. It empowers individuals to share their financial data securely and in a controlled manner with regulated financial institutions.\nIn this article, we’ll explore what an Account Aggregator is, how it benefits you, how to register, and what it means for the life insurance industry.\nWhat is an Account Aggregator?\nAn Account Aggregator is a RBI-regulated entity that provides a specialized service involving the retrieval and aggregation of financial data from various Financial Information Providers (FIPs), relating to a specific customer. This data is subsequently structured, organized, and presented to the customer or other authorized entities, such as Financial Information Users (FIUs), exclusively based on the explicit consent granted by the customer.\nThe main goal of the Account Aggregator system is to empower individuals with control over their data, enabling them to share it in a secure, consent-driven, and standardised way.\nKey Participants in the AA Ecosystem\nHere’s a simplified view of how the AA ecosystem functions:\n● Account Aggregator (AA): Acts as a data-sharing intermediary. ● FIP (Financial Information Provider): Institutions like banks or non-banking financial company, asset management company etc. that hold your data. ● FIU (Financial Information User): Entities like insurers or lenders that require your data to offer you a product or service. ● Customer: You, who gives consent to share your data via AA.\nBenefits of Using an Account Aggregator\nThe Account Aggregator system is designed with the individual at the centre. Here are some key benefits:\n1. Data Empowerment\nWith an AA, you know what data you are sharing, with whom and for how long. This empowers you to take charge of your financial information.\n2. Secure and Consent-Based\nData sharing happens only when you provide clear and specific consent. Your data is encrypted and not stored by the AA.\n3. Faster Financial Access\nWhether you are applying for a loan, buying life insurance, or seeking investment advice, sharing verified financial data digitally reduces paperwork and speeds up the decision-making process.4. Paperless and Instant\nThe entire process is digital, eliminating the need for physical documents. It saves time and ensures accuracy.\nHow to Register with an Account Aggregator\nRegistering with an Account Aggregator is simple and user-friendly. There are multiple ways in which you can register yourself, example: directly through an account aggregator website / application, OR through your product / service provider such as an insurer / NBFC etc.\nGiven below is an example of how you can register directly through an account aggregator website / application: Step 1: Choose a Registered AA\nVisit the website or download the app of an RBI-licensed Account Aggregator such as CAMS Finserv, PhonePe AA, or Finvu. The full list is available on the RBI website.\nStep 2: Create an AA Account\nSign up by entering your mobile number linked to your bank accounts. You will receive an OTP for verification.\nStep 3: Link Your Financial Accounts\nYou can select which bank accounts or financial services you want to link to the AA platform. This linking happens through consent and may require authentication.\nStep 4: Share Consent\nWhenever you apply for a financial product (e.g., a loan or life insurance policy), you can give consent via your AA to share specific financial data with that institution.\nStep 5: Revoke Consent Anytime\nYou can revoke or modify your data-sharing permissions anytime through the AA interface.\nNote: The actual steps may vary depending on the platform.\nUse Case Example: Buying a Life Insurance Policy\nLet’s say you want to purchase a term life insurance plan with a ₹1 crore cover. Traditionally, you might need to provide income proof, past tax returns, and more. Through the AA system, you can:\n● Share your bank account statement(s) instantly with the insurer. ● Helps in underwriting and processing insurance policies more efficiently. ● Receive a personalised premium quote that are tailored to the customer's specific financial situation and needs. ● Complete your purchase within minutes—paperless and hassle-free.\nThis ensures faster access to financial protection for you and your family.\nIs It Safe to Use an Account Aggregator?\nYes. Account Aggregators are licensed and regulated by the RBI, and all data sharing is done through secure APIs with end-to-end encryption. Moreover:\n● Your data is never stored by the AA. ● You have complete control and visibility over what is shared. ● You can revoke access at any time.\nConclusion\nThe Account Aggregator framework is a significant step forward in India’s journey towards a digitally empowered financial ecosystem. It puts you, the individual, in control of your data and helps you access life insurance and other financial services more efficiently.\nWhether you are planning for your family's financial security or building long-term savings, Account Aggregators can make the process smoother, faster, and more secure.\nFrequently Asked Questions (FAQs)\n1. Is registering with an Account Aggregator mandatory to buy life insurance?\nNo, it is optional. However, using an AA can simplify the process and reduce documentation.\n2. Does the Account Aggregator store my data?\nNo. It only facilitates data transfer between institutions after you provide consent. It does not store your financial data.\n3. Can I use one AA for all my financial accounts?\nYes, if your financial service provider (bank / NBFC / insurer etc.) is associated with the selected AA, you get the flexibility to use same AA for all your financial accounts.\n4. What if I change my mind after sharing consent?\nYou can revoke or modify your consent anytime using the AA platform.\n5. Is there a cost to using an Account Aggregator?\nCost of using an AA would depend upon the policies of your service provider. It is advisable to check with your service provider.\nDisclaimer:\nThe content provided is for general informational purposes only. The material is compiled from publicly available sources, internal insights, and other information deemed reliable. While reasonable care has been taken in compiling the information, Bajaj Allianz Life Insurance Co. Ltd. assumes no liability for its accuracy. The opinions expressed do not constitute formal recommendations, professional advice, or definitive guidance. Readers are encouraged to conduct their own due diligence and are advised to seek independent professional or expert advice before making any financial or investment decisions based on the content. Any illustrations included are for conceptual clarity only and do not reflect the actual performance of any product or offering.\nBJAZ-WEB-EC-15908/25",
+  "word_comments": [
+    {
+      "author": "Visheshta Khanna/Pune HO/Analytics/Life",
+      "comment": "Use-cases in Life Insurance",
+      "paragraph_context": "What is an Account Aggregator? Benefits, Registration Process, and Use-cases in ..."
+    },
+    {
+      "author": "content@techmagnateservices.onmicrosoft.com",
+      "comment": "revised",
+      "paragraph_context": "What is an Account Aggregator? Benefits, Registration Process, and Use-cases in ..."
+    },
+    {
+      "author": "Visheshta Khanna/Pune HO/Analytics/Life",
+      "comment": "Please keep some overlap between FIP and FIU examples since one entity can be both an FIP and FIU. Example: insurers and banks can be both FIP and FIU.",
+      "paragraph_context": "An Account Aggregator is a RBI-regulated entity that provides a specialized serv..."
+    },
+    {
+      "author": "content@techmagnateservices.onmicrosoft.com",
+      "comment": "revised",
+      "paragraph_context": "An Account Aggregator is a RBI-regulated entity that provides a specialized serv..."
+    },
+    {
+      "author": "Visheshta Khanna/Pune HO/Analytics/Life",
+      "comment": "This does not look right. Customer would not be able to decide what they would share and for how long. This is pre-decided based on the use-case / purpose for which the data would be used.Change highlighted text to: “You know what data you are sharing, with whom and for how long”",
+      "paragraph_context": "With an AA,  you know what data you are sharing, with whom and for how long. Thi..."
+    },
+    {
+      "author": "content@techmagnateservices.onmicrosoft.com",
+      "comment": "revised",
+      "paragraph_context": "With an AA,  you know what data you are sharing, with whom and for how long. Thi..."
+    },
+    {
+      "author": "Visheshta Khanna/Pune HO/Analytics/Life",
+      "comment": "Isn’t this point the same as point 3?",
+      "paragraph_context": "The entire process is digital, eliminating the need for physical documents. It s..."
+    },
+    {
+      "author": "content@techmagnateservices.onmicrosoft.com",
+      "comment": "This is more about paperless journey while as 3rd point is about faster access.",
+      "paragraph_context": "The entire process is digital, eliminating the need for physical documents. It s..."
+    },
+    {
+      "author": "Ayushi Sharma/Pune HO/Legal Compliance and FPU/Life",
+      "comment": "Can you pls share IRDAI or RBI circular or guideline which prescribes this process of registration?",
+      "paragraph_context": "Note: The actual steps may vary depending on the platform."
+    },
+    {
+      "author": "content@techmagnateservices.onmicrosoft.com",
+      "comment": "https://sahamati.org.in/how-to-use-aa-app/#:~:text=Steps%20for%20Registering%20in%20an%20Account%20aggregator%20App&text=It%20is%20preferable%20to%20enter,to%20verify%20your%20mobile%20number.",
+      "paragraph_context": "Note: The actual steps may vary depending on the platform."
+    },
+    {
+      "author": "Ayushi Sharma/Pune HO/Legal Compliance and FPU/Life [2]",
+      "comment": "What is Sahmati? Which link is this? Registering with an AA is an internal process of a company, which differs from organisation to organisation as IRDAI has not defined this process in regulations. Pls share process owner approval on this section (UW/New Business)",
+      "paragraph_context": "Note: The actual steps may vary depending on the platform."
+    },
+    {
+      "author": "Visheshta Khanna/Pune HO/Analytics/Life",
+      "comment": "Customer would not benefit from risk assessment. Risk assessment would not be a pull factor for customers to do AA. Let’s refrain from giving risk assessment as benefit / reason to do AAReplace the text with “Complete your financial UW process faster”",
+      "paragraph_context": "Helps in underwriting and processing insurance policies more efficiently."
+    },
+    {
+      "author": "content@techmagnateservices.onmicrosoft.com",
+      "comment": "revised",
+      "paragraph_context": "Helps in underwriting and processing insurance policies more efficiently."
+    },
+    {
+      "author": "Visheshta Khanna/Pune HO/Analytics/Life",
+      "comment": "Yes, if your financial service provider (bank / NBFC / insurer etc.) is associated with the selected AA, you get the flexibility to use same AA for all your financial accounts.",
+      "paragraph_context": "Yes, if your financial service provider (bank / NBFC / insurer etc.) is associat..."
+    },
+    {
+      "author": "content@techmagnateservices.onmicrosoft.com",
+      "comment": "revised",
+      "paragraph_context": "Yes, if your financial service provider (bank / NBFC / insurer etc.) is associat..."
+    },
+    {
+      "author": "Visheshta Khanna/Pune HO/Analytics/Life",
+      "comment": "Cost of using an AA would depend upon the policies of your service provider. It is advisable to check with your service provider.",
+      "paragraph_context": "Cost of using an AA would depend upon the policies of your service provider. It ..."
+    },
+    {
+      "author": "content@techmagnateservices.onmicrosoft.com",
+      "comment": "revised",
+      "paragraph_context": "Cost of using an AA would depend upon the policies of your service provider. It ..."
+    }
+  ],
+  "changes": [
+    {
+      "change_type": "modified",
+      "word_original": "Account Aggregator (AA): Acts as a data-sharing intermediary.",
+      "pdf_final": "● Account Aggregator (AA): Acts as a data-sharing intermediary. ● FIP (Financial Information Provider): Institutions like banks or non-banking financial company, asset management company etc. that hold your data. ● FIU (Financial Information User): Entities like insurers or lenders that require your data to offer you a product or service. ● Customer: You, who gives consent to share your data via AA.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "FIP (Financial Information Provider): Institutions like banks or non-banking financial company, asset management company etc. that hold your data.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "FIU (Financial Information User): Entities like insurers or lenders that require your data to offer you a product or service.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Customer: You, who gives consent to share your data via AA.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "With an AA,  you know what data you are sharing, with whom and for how long.",
+      "pdf_final": "With an AA, you know what data you are sharing, with whom and for how long.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Whether you are applying for a loan, buying life insurance, or seeking investment advice, sharing verified financial data digitally reduces paperwork and speeds up the decision-making process.",
+      "pdf_final": "Whether you are applying for a loan, buying life insurance, or seeking investment advice, sharing verified financial data digitally reduces paperwork and speeds up the decision-making process.4.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "4.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Given below is an example of how you can register directly through an account aggregator website / application:",
+      "pdf_final": "Given below is an example of how you can register directly through an account aggregator website / application: Step 1: Choose a Registered AA",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Step 1: Choose a Registered AA",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Share your bank account statement(s) instantly with the insurer.",
+      "pdf_final": "● Share your bank account statement(s) instantly with the insurer. ● Helps in underwriting and processing insurance policies more efficiently. ● Receive a personalised premium quote that are tailored to the customer's specific financial situation and needs. ● Complete your purchase within minutes—paperless and hassle-free.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Helps in underwriting and processing insurance policies more efficiently.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Receive a personalised premium quote that are tailored to the customer's specific financial situation and needs.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Complete your purchase within minutes—paperless and hassle-free.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Your data is never stored by the AA.",
+      "pdf_final": "● Your data is never stored by the AA. ● You have complete control and visibility over what is shared. ● You can revoke access at any time.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "You have complete control and visibility over what is shared.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "You can revoke access at any time.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "added",
+      "word_original": "",
+      "pdf_final": "BJAZ-WEB-EC-15908/25",
+      "summary": "New sentence added in PDF"
+    }
+  ],
+  "has_changes": true
+}

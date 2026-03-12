@@ -1,0 +1,220 @@
+{
+  "document_id": "19937",
+  "title": "NA-Non ULIP",
+  "word_text": "How to enquiry for TDS challan status?\nThe dream of making India digital can be seen in the functioning of various government departments. Digital innovations have penetrated deep into the Income Tax Department of India, which is reflected in its functions, such as offering online portals for tax collection, assessment, and a lot more. The option to pay taxes, file income tax returns and check status online has made the whole process streamlined and simpler for taxpayers and the government.\nIf you have filed your TDS challan and haven’t received updates, you can easily check the status of your TDS challan online after a week from depositing the challan with the bank.1 Read on to find a detailed guide to checking the TDS challan status online\nTDS challan: Checking the status online\nChecking the status online of your TDS challan can be done through two modes: TAN view and CIN view.1\nTAN view simply stands for Tax Deduction and Collection Account Number, which is a unique number assigned to every deductor. Here’s how you check the TDS challan status through the TAN view:1\nStep 1: Visit the official website of the IT Department or simply open the Tax Information Network (TIN)-NSDL portal.\nStep 2: Once you are in, you will be able to see the “challan enquiry page”. Open the page and select the TAN-based view.\nStep 3: You will be redirected to a new page where you have to provide TAN details. Next, you also have to provide the challan tender date and fill in the captcha code for verification.\nStep 4: Once you have submitted the details, you will be able to see the status of your TDS challan.\nStep 5: You can either download a PDF of your TDS challan or simply select the view-only mode.\nNote: Remember that you can check the status of your TDS challan only for a specified period that can not be more than 2 years/ 24 months from the current date.1\nThe CIN view deals with the method of checking TDS challan status using the challan identification number. You can find your challan identification number on the challan receipt issued by the bank.\nHere’s how you can check the TDS challan status through the CIN view:1\nStep 1: Visit the official website of the Income Tax Department or simply open the Tax Information Network (TIN)-NSDL portal.\nStep 2: Next, you have to find and select the challan enquiry page to choose the method of checking the TDS challan status.\nStep 3: Once you are in, select the method as CIN view.\nStep 4: In the next step you have to fill in the details like BSR code, challan serial number, challan tender date and the amount.\nStep 5: Once you have provided the details, you will be able to see the TDS challan status on the screen.\nTDS challan: All you need to know\nBefore you leave, let’s clear the fundamentals of the TDS challan to help you understand the process of downloading and checking the TDS challan status better.\nRemember that the TDS challan is a receipt generated when you make an online payment of TDS (tax deducted at source). TDS challan was introduced in 2004 to streamline and simplify the collection of TDS by offering a simple online portal.2\nAt present, challan number ITNS 281 is used to pay TDS. You can download the TDS challan at the time of making the payment for TDS. However, if you have failed to download the TDS challan after paying, here’s how you can download it later:2\nThrough the income tax portal 2\nStep 1: Visit the official portal of income tax e-filing.\nStep 2: Login into your account with your TAN number.\nStep 3: Select the “e-file” option and then select the “e-pay tax” option.\nStep 4: Next, you have to select the “payment history” menu and you will be able to see the TDS challan for payments you have made.\nStep 5: From here, you can download the challan or simply view it.\nThrough OLTAS 2\nStep 1: Visit the TIN-NSDL portal.\nStep 2: Once you are in, select “OLTAS” from the “services” menu.\nStep 3: Select the “challan status enquiry”.\nStep 4: In the next step, you have to select either a CIN-based view or a TAN-based view.\nStep 5: You will be able to view and download your TDS challan.\nConclusion\nTDS, or tax deducted at source, was introduced by the government to collect tax at the source of income. This type of tax is deducted by the payer while making payment to the receiver, and then the deducted amount is remitted to the government. TDS challan is a receipt of this tax deduction that is crucial for every taxpayer liable to pay TDS.2\nFAQs\nHow to check the TDS challan status?\nYou can check the TDS challan status online either through the TAN-based view or CIN view by visiting the official portal of the Income Tax Department or opening the Tax Information Network (TIN)-NSDL portal. You can simply log in using credentials and check the status.1\nWhat is a TDS challan?\nTDS challan is a receipt or proof that you have made the payment for TDS or tax deducted at source. You can download your TDS challan either when making a payment or from the official income tax department e-tax filing portal.2\nDisclaimer:\nThe views expressed in this article is not to be construed as professional advice and users are advised to seek independent professional/expert advice before making any decisions based on the same. Bajaj Allianz Life Insurance Company Ltd., Regd. office Address: Bajaj Allianz House, Airport Road, Yerawada, Pune - 411006, Reg. No.: 116, CIN: U66010PN2001PLC015959, Call us on toll free No.: 1800 209 7272, Mail us: customercare@bajajallianz.co.in\nSources\nhttps://cleartax.in/s/oltas-tds-challan\nhttps://cleartax.in/s/download-tds-challan",
+  "full_pdf_text": "How to enquiry for TDS challan status?\nThe dream of making India digital can be seen in the functioning of various government departments. Digital innovations have penetrated deep into the Income Tax Department of India, which is reflected in its functions, such as offering online portals for tax collection, assessment, and a lot more. The option to pay taxes, file income tax returns and check status online has made the whole process streamlined and simpler for taxpayers and the government. If you have filed your TDS challan and haven’t received updates, you can easily check the status of your TDS challan online after a week from depositing the challan with the bank.1 Read on to find a detailed guide to checking the TDS challan status online\nTDS challan: Checking the status online\nChecking the status online of your TDS challan can be done through two modes: TAN view and CIN view.1\nTAN view simply stands for Tax Deduction and Collection Account Number, which is a unique number assigned to every deductor. Here’s how you check the TDS challan status through the TAN view:1\n● Step 1: Visit the official website of the Income Tax Department or simply open the Tax Information Network (TIN)-NSDL portal. ● Step 2: Once you are in, select the TAN-based view, under ‘For Tax Payers’ ● Step 3: You will now to have to provide TAN details and the challan tender date for a required period that should be within a range of 24 months. ● Step 4: Once you have selected this option, a text file with the following details can be downloaded:\n○ CIN ○ Major Head Code with the description ○ Major Head Code ○ The Nature of the Payment that has been made. ● Step 5: When you now enter the CIN amount, the system will confirm if it is in sync with the information that has been uploaded by the bank. You can then use this file to verify the challan details. You need to:\n○ Import the challan file into File Validation Utility ○ Validate the quarterly e-TDS or TCS ○ FVU provides matching stats for the challan details. Note: Remember that you can check the status of your TDS challan only for a specified period that can not be more than 2 years/ 24 months from the current date.1\nThe CIN view deals with the method of checking TDS challan status using the challan identification number. You can find your challan identification number on the challan receipt issued by the bank. Here’s how you can check the TDS challan status through the CIN view:1\n● Step 1: Visit the official website of the Income Tax Department or simply open the Tax Information Network (TIN)-NSDL portal. ● Step 2: Next, you have to Next, you have to click on ‘CIN based view’ which is under ‘For Tax payers. ● Step 3: Once you are in, select the method as CIN view. ● Step 4: the next step you will be able to view various details such as: ○ BSR Code ○ Date of Deposit ○ Challan Serial Number ○ Name of Taxpayer ○ Received by TIN ○ Confirmation of the entered amount. ● Step 5: Once you have provided the details, you will be able to see the TDS challan status on the screen. TDS challan: All you need to know Before you leave, let’s clear the fundamentals of the TDS challan to help you understand the process of downloading and checking the TDS challan status better. Remember that the TDS challan is a receipt generated when you make an online payment of TDS (tax deducted at source). TDS challan online were introduced in 2004 to streamline and simplify the collection of TDS by offering a simple online portal.2\nAt present, challan number ITNS 281 is used to pay TDS2. You can download the TDS challan at the time of making the payment for TDS. However, if you have failed to download the TDS challan after paying, here’s how you can download it later:2\n1. Through the income tax portal 2\n● Step 1: Visit the official portal of income tax e-filing. ● Step 2: Login into your account with your TAN number. ● Step 3: Select the “e-file” option and then select the “e-pay tax” option. ● Step 4: Next, you have to select the “payment history” menu and you will be able to see the TDS challan payments you have made. ● Step 5: From here, you can download the challan or simply view it.\n2. Through OLTAS 2\n● Step 1: Visit the TIN-NSDL portal. ● Step 2: Once you are in, select “OLTAS” from the “services” menu. ● Step 3: Select the “challan status enquiry”. ● Step 4: In the next step, you have to select either a CIN-based view or a TAN-based view. ● Step 5: You will be able to view and download your TDS challan. Conclusion\nTDS, or tax deducted at source, was introduced by the government to collect tax at the source of income. This type of tax is deducted by the payer while making payment to the payee , and then the deducted amount is remitted to the government. TDS challan is a receipt of this tax deduction that is crucial for every taxpayer liable to pay TDS3.\nFAQs\n1. How to check the TDS challan status?\nYou can check the TDS challan status online either through the TAN-based view or CIN view by visiting the official portal of the Income Tax Department or opening the Tax Information Network (TIN)-NSDL portal. You can simply log in using credentials and check the status.1\n2. What is a TDS challan?\nTDS challan is a receipt or proof that you have made the payment for TDS or tax deducted at source. You can download your TDS challan either when making a payment or from the official income tax department e-tax filing portal.2\nDisclaimer:\nThe views expressed in this article is not to be construed as professional advice and users are advised to seek independent professional/expert advice before making any decisions based on the same. Bajaj Allianz Life Insurance Company Ltd., Regd. office Address: Bajaj Allianz House, Airport Road, Yerawada, Pune - 411006, Reg. No.: 116, CIN: U66010PN2001PLC015959, Call us on toll free No.: 1800 209 7272, Mail us: customercare@bajajallianz.co.in Sources\n1. https://cleartax.in/s/oltas-tds-challan 2. https://cleartax.in/s/download-tds-challan 3. https://www.indiafilings.com/learn/how-to-download-tds-paid-challan-from-income-tax-\nportal/#:~:text=A%20TDS%20Challan%20is%20a,and%20the%20relevant%20assessment%20yea r. BJAZ-WEB-ECNF-13890/25",
+  "word_comments": [],
+  "changes": [
+    {
+      "change_type": "modified",
+      "word_original": "Step 1: Visit the official website of the IT Department or simply open the Tax Information Network (TIN)-NSDL portal.",
+      "pdf_final": "● Step 1: Visit the official website of the Income Tax Department or simply open the Tax Information Network (TIN)-NSDL portal. ● Step 2: Once you are in, select the TAN-based view, under ‘For Tax Payers’ ● Step 3: You will now to have to provide TAN details and the challan tender date for a required period that should be within a range of 24 months. ● Step 4: Once you have selected this option, a text file with the following details can be downloaded:",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Step 2: Once you are in, you will be able to see the “challan enquiry page”.",
+      "pdf_final": "○ CIN ○ Major Head Code with the description ○ Major Head Code ○ The Nature of the Payment that has been made. ● Step 5: When you now enter the CIN amount, the system will confirm if it is in sync with the information that has been uploaded by the bank.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Open the page and select the TAN-based view.",
+      "pdf_final": "You can then use this file to verify the challan details.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Step 3: You will be redirected to a new page where you have to provide TAN details.",
+      "pdf_final": "You need to:",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Next, you also have to provide the challan tender date and fill in the captcha code for verification.",
+      "pdf_final": "○ Import the challan file into File Validation Utility ○ Validate the quarterly e-TDS or TCS ○ FVU provides matching stats for the challan details.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Step 4: Once you have submitted the details, you will be able to see the status of your TDS challan.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Step 5: You can either download a PDF of your TDS challan or simply select the view-only mode.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Step 1: Visit the official website of the Income Tax Department or simply open the Tax Information Network (TIN)-NSDL portal.",
+      "pdf_final": "● Step 1: Visit the official website of the Income Tax Department or simply open the Tax Information Network (TIN)-NSDL portal. ● Step 2: Next, you have to Next, you have to click on ‘CIN based view’ which is under ‘For Tax payers. ● Step 3: Once you are in, select the method as CIN view. ● Step 4: the next step you will be able to view various details such as: ○ BSR Code ○ Date of Deposit ○ Challan Serial Number ○ Name of Taxpayer ○ Received by TIN ○ Confirmation of the entered amount. ● Step 5: Once you have provided the details, you will be able to see the TDS challan status on the screen.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Step 2: Next, you have to find and select the challan enquiry page to choose the method of checking the TDS challan status.",
+      "pdf_final": "TDS challan: All you need to know Before you leave, let’s clear the fundamentals of the TDS challan to help you understand the process of downloading and checking the TDS challan status better.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Step 3: Once you are in, select the method as CIN view.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Step 4: In the next step you have to fill in the details like BSR code, challan serial number, challan tender date and the amount.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Step 5: Once you have provided the details, you will be able to see the TDS challan status on the screen.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "TDS challan: All you need to know",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Before you leave, let’s clear the fundamentals of the TDS challan to help you understand the process of downloading and checking the TDS challan status better.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "TDS challan was introduced in 2004 to streamline and simplify the collection of TDS by offering a simple online portal.2",
+      "pdf_final": "TDS challan online were introduced in 2004 to streamline and simplify the collection of TDS by offering a simple online portal.2",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "At present, challan number ITNS 281 is used to pay TDS.",
+      "pdf_final": "At present, challan number ITNS 281 is used to pay TDS2.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "added",
+      "word_original": "",
+      "pdf_final": "1.",
+      "summary": "New sentence added in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Step 1: Visit the official portal of income tax e-filing.",
+      "pdf_final": "● Step 1: Visit the official portal of income tax e-filing. ● Step 2: Login into your account with your TAN number. ● Step 3: Select the “e-file” option and then select the “e-pay tax” option. ● Step 4: Next, you have to select the “payment history” menu and you will be able to see the TDS challan payments you have made. ● Step 5: From here, you can download the challan or simply view it.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Step 2: Login into your account with your TAN number.",
+      "pdf_final": "2.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Step 3: Select the “e-file” option and then select the “e-pay tax” option.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Step 4: Next, you have to select the “payment history” menu and you will be able to see the TDS challan for payments you have made.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Step 5: From here, you can download the challan or simply view it.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Step 1: Visit the TIN-NSDL portal.",
+      "pdf_final": "● Step 1: Visit the TIN-NSDL portal. ● Step 2: Once you are in, select “OLTAS” from the “services” menu. ● Step 3: Select the “challan status enquiry”. ● Step 4: In the next step, you have to select either a CIN-based view or a TAN-based view. ● Step 5: You will be able to view and download your TDS challan.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Step 2: Once you are in, select “OLTAS” from the “services” menu.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Step 3: Select the “challan status enquiry”.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Step 4: In the next step, you have to select either a CIN-based view or a TAN-based view.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "removed",
+      "word_original": "Step 5: You will be able to view and download your TDS challan.",
+      "pdf_final": "",
+      "summary": "Sentence from Word removed in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "This type of tax is deducted by the payer while making payment to the receiver, and then the deducted amount is remitted to the government.",
+      "pdf_final": "This type of tax is deducted by the payer while making payment to the payee , and then the deducted amount is remitted to the government.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "TDS challan is a receipt of this tax deduction that is crucial for every taxpayer liable to pay TDS.2",
+      "pdf_final": "TDS challan is a receipt of this tax deduction that is crucial for every taxpayer liable to pay TDS3.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "added",
+      "word_original": "",
+      "pdf_final": "1.",
+      "summary": "New sentence added in PDF"
+    },
+    {
+      "change_type": "added",
+      "word_original": "",
+      "pdf_final": "2.",
+      "summary": "New sentence added in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "No.: 116, CIN: U66010PN2001PLC015959, Call us on toll free No.: 1800 209 7272, Mail us: customercare@bajajallianz.co.in",
+      "pdf_final": "No.: 116, CIN: U66010PN2001PLC015959, Call us on toll free No.: 1800 209 7272, Mail us: customercare@bajajallianz.co.in Sources",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "Sources",
+      "pdf_final": "1. https://cleartax.in/s/oltas-tds-challan 2. https://cleartax.in/s/download-tds-challan 3. https://www.indiafilings.com/learn/how-to-download-tds-paid-challan-from-income-tax-",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "https://cleartax.in/s/oltas-tds-challan",
+      "pdf_final": "portal/#:~:text=A%20TDS%20Challan%20is%20a,and%20the%20relevant%20assessment%20yea r.",
+      "summary": "Sentence rewritten in PDF"
+    },
+    {
+      "change_type": "modified",
+      "word_original": "https://cleartax.in/s/download-tds-challan",
+      "pdf_final": "BJAZ-WEB-ECNF-13890/25",
+      "summary": "Sentence rewritten in PDF"
+    }
+  ],
+  "has_changes": true
+}
