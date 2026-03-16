@@ -4,14 +4,14 @@ from datasets import Dataset
 from unsloth import FastLanguageModel
 from unsloth.chat_templates import get_chat_template
 from trl import SFTTrainer
-from transformers import TrainingArguments
+from transformers import TrainingArguments, TrainerCallback
 from unsloth import is_bfloat16_supported
 
 # -----------------------------------------------------------------------------
 # 1. Configuration & Hyperparameters
 # -----------------------------------------------------------------------------
 DATA_DIR = "dataset_2.1_rl"
-MODEL_NAME = "Qwen/Qwen2.5-9B-Instruct" # Note: using 2.5 as requested by the 2.5 spec
+MODEL_NAME = "Qwen/Qwen2.5-3B-Instruct" # Note: using 2.5 as requested by the 4B/3B spec
 OUTPUT_DIR = "./compliance_qwen_model"
 
 # Hardware / Training settings
@@ -110,6 +110,23 @@ model = FastLanguageModel.get_peft_model(
 # -----------------------------------------------------------------------------
 # 5. Training Loop
 # -----------------------------------------------------------------------------
+class JsonLoggingCallback(TrainerCallback):
+    def __init__(self, log_path="training_metrics.json"):
+        self.log_path = log_path
+        with open(self.log_path, "w") as f:
+            json.dump([], f)
+            
+    def on_log(self, args, state, control, logs=None, **kwargs):
+        if logs is not None:
+            try:
+                with open(self.log_path, "r") as f:
+                    history = json.load(f)
+            except:
+                history = []
+            history.append(logs)
+            with open(self.log_path, "w") as f:
+                json.dump(history, f)
+
 print("Initializing SFTTrainer...")
 trainer = SFTTrainer(
     model = model,
@@ -134,6 +151,7 @@ trainer = SFTTrainer(
         seed = 3407,
         output_dir = "lora_checkpoints",
     ),
+    callbacks=[JsonLoggingCallback()],
 )
 
 print("Starting training...")
